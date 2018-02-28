@@ -1,3 +1,3 @@
 ---
 ---
-{% include_relative cv_german.md %}
+{% include_relative cv_german.html %}
