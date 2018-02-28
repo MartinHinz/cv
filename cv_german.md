@@ -275,6 +275,6 @@ title: Martin Hinz
 - ISAAK Github Repository
   - [https://github.com/ISAAKiel](https://github.com/ISAAKiel)
 
-<!-- ### Footer
-
-Last updated: February 2017 -->
+### Hinweis
+- Eine laufend aktualisierte Version dieses Lebenslaufes wird unter [https://github.com/MartinHinz/cv/blob/master/cv_german.md](https://github.com/MartinHinz/cv/blob/master/cv_german.md) vorgehalten.
+<!-- ### Footer Last updated: February 2017 -->
