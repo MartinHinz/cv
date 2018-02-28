@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default
 title: Martin Hinz
 ---
 <div id="webaddress">
