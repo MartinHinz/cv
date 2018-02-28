@@ -1,2 +1,2 @@
 # cv
-My CV
+This repository contains my cv, currently only in german.
