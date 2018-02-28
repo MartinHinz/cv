@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Martin Hinz
+title: Lebenslauf (deutsch)
 ---
 <div id="webaddress">
 <a href="mail@martinhinz.info">mail@martinhinz.info</a>
