@@ -152,30 +152,6 @@
 
 <div class="pagebreak"> </div>
 
-### (Zweit-) Betreungen von Qualifikationsarbeiten
-
-`2015`
-- Tanja Schreiber, BA
-  - Vorbronzezeitlichen Eliten? Eine Untersuchung der schnurkeramischen, glockenbecherzeitlichen und aunjetitzzeitlichen Bestattungen des Mittelelbe-Saale-Gebietes
-- Jenny Schmid, BA
-  - Bleckendorf und Lüdelsen 3: Mischinventare im 3. vorchristlichen Jahrtausend und ihre kulturelle Bedeutung
-
-`2017`
-- Benjamin Drogat, BA
-  - Spuren ritueller Handlungen beim Bau trichterbecherzeitlicher Megalithgräber am Beispiel Wangels LA 69
-- Bastian Wolthoff, BA
-  - Eine multivariate Statistik zur Untersuchung der Keramikverzierung in der frühneolithischen Siedlung von Vráble, SW-Slowakei
-- Moiken Elisabeth Hinrichs, BA
-  - Eine struktur-räumliche Analyse der Einzelgrabkultur in südwest Jütland
-
-`2018`
-- Merle Oelbüttel, BA
-  - Kupfer- und Bronzezeitliche Landschaftsentwicklung auf der südlichen iberischen Halbinsel anhand von Pollendaten (Arbeitstitel)
-- Jan-Erik Schlicht, MA
-  - Zentralität und Emerging Causality am Beispiel der iberischen kupferzeitlichen 'Megasites' (Arbeitstitel)
-- Clemens Schmid, MA
-  - Modellierung des Überganges von Körper- zu Brandbestattung in der europäischen Bronzezeit (Arbeitstitel)
-
 ## Lehrveranstaltungen der letzten fünf Jahre
 
 `2017`
@@ -210,6 +186,30 @@
 - Grundlegende statistische Verfahren für archäologische Datenanalyse in R, CAU Kiel  
 - Absolute Chronologie und Isotopenuntersuchungen, CAU Kiel  
 
+## (Zweit-) Betreungen von Qualifikationsarbeiten
+
+`2015`
+- Tanja Schreiber, BA
+  - Vorbronzezeitlichen Eliten? Eine Untersuchung der schnurkeramischen, glockenbecherzeitlichen und aunjetitzzeitlichen Bestattungen des Mittelelbe-Saale-Gebietes
+- Jenny Schmid, BA
+  - Bleckendorf und Lüdelsen 3: Mischinventare im 3. vorchristlichen Jahrtausend und ihre kulturelle Bedeutung
+
+`2017`
+- Benjamin Drogat, BA
+  - Spuren ritueller Handlungen beim Bau trichterbecherzeitlicher Megalithgräber am Beispiel Wangels LA 69
+- Bastian Wolthoff, BA
+  - Eine multivariate Statistik zur Untersuchung der Keramikverzierung in der frühneolithischen Siedlung von Vráble, SW-Slowakei
+- Moiken Elisabeth Hinrichs, BA
+  - Eine struktur-räumliche Analyse der Einzelgrabkultur in südwest Jütland
+
+`2018`
+- Merle Oelbüttel, BA
+  - Kupfer- und Bronzezeitliche Landschaftsentwicklung auf der südlichen iberischen Halbinsel anhand von Pollendaten (Arbeitstitel)
+- Jan-Erik Schlicht, MA
+  - Zentralität und Emerging Causality am Beispiel der iberischen kupferzeitlichen 'Megasites' (Arbeitstitel)
+- Clemens Schmid, MA
+  - Modellierung des Überganges von Körper- zu Brandbestattung in der europäischen Bronzezeit (Arbeitstitel)
+  
 <div class="pagebreak"> </div>
 
 ## Publikationen der letzten fünf Jahre
