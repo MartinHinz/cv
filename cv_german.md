@@ -1,9 +1,13 @@
+---
+layout: cv
+title: Martin Hinz
+---
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
 
 <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
 
 
-<div id="address">
+<div id="address" markdown="1">
 Senior researcher
 
 <i class="fa fa-map-marker"></i> Institute for Archaeological Sciences IAS
@@ -17,7 +21,7 @@ Mittelstrasse 43
 CH-3012 Bern
 </div>
 
-<div id="contact">
+<div id="contact" markdown="1">
 <i class="fa fa-phone" aria-hidden="true"></i> +41 31 631 58 26
 
 <i class="fas fa-at" aria-hidden="true"></i> <a href="martin.hinz@iaw.unibe.ch">martin.hinz@iaw.unibe.ch</a>
@@ -25,7 +29,7 @@ CH-3012 Bern
 <i class="fa fa-external-link-alt"></i> <a href="http://www.iaw.unibe.ch">www.iaw.unibe.ch</a>
 </div>
 
-<div id="list">
+<div id="list" markdown="1">
 ## Persönliche Daten
 
 Geburtstag
