@@ -47,108 +47,59 @@ table {
 	border-spacing: 0;
 }
 
-/* end of reset */
-
-
-
 body {
-	font: normal normal 400;
-	/*font-size: 80%;*/
-	line-height: 1.5em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Raleway,Verdana,sans-serif;
-	margin-top: 1em;
-	margin-left: 1em;
+    font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+    width: 800px;
+    margin: auto;
+    background: #FFFFFF;
+    padding: 10px 10px 10px 10px;
+		font: normal normal 400;
+		font-size: 100%;
+		line-height: 1.2em;
 }
 
-p {
+#contact {
+	width: 50%;
+	float:left;
+	margin-top: 2em;
 	position: relative;
-	left: 33%;
-	margin-bottom: 0.7em;
-	margin-right: 0;
-	width: 85%;
+	color: #111;
+	text-align: right;
 }
 
-code {
-	font: normal normal;
-	font-size: 75%;
-	/*line-height: 1em;*/
-	font-family: Raleway,Menlo,monospace,sans-serif;
-	color: #aaa;
+#address {
+		margin-top: 2em;
+	  width: 50%;
+		float:left;
+		margin-bottom: 20px;
 }
 
-p code {
-	position: absolute;
-	left: -14%;
+#list {
+	clear:both;
+	margin-left: 300px;
 }
 
-
-ul {
-	position: relative;
-	left: 33%;
-	width: 65%;
-	margin-bottom: 1.5em;
-	margin-top: -0.5em;
-}
-
-/*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
-}*/
-
-li {
-	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
-	/*color: #777;*/
-}
-
-li ul {
-	position: relative;
-	left: 0;
-	width: 100%;
-	margin-top: 0.25em;
-}
-
-h1,h2,h3,h4 {
-	font-weight: 400;
-	font-family: Raleway,Cousine,Verdana,sans-serif;
-	width: 65%;
+#list ol, ul {
+	list-style: none;
 }
 
 h1 {
-	text-align: left;
-	font-size: 3em;
-	line-height: 1em;
-	position: relative;
-	left: 33%;
-}
-
-h1+p {
-	/*subtitle*/
-	font-style: italic;
-	font-size: 110%;
+	font-size: 1.7em;
+	font-weight:bold;
+	padding-bottom: 1em;
 }
 
 h2 {
-	font-size: 1.1em;
-	color: #a00;
-	margin-top: 3em;
-	position: relative;
-	top: 1.4em;
-	text-align: right;
-	width: 20%;
+	color: #d6002b;
+	font-size: 1.2em;
+	font-weight:bold;
+	padding-bottom: 1em;
 }
 
 h3 {
-	font-size: 1em;
-	line-height: 2em;
-	position: relative;
-	top: 1.7em;
+	padding-bottom: .5em;
+	font-weight: bold;
 	text-align: right;
-	width: 20%;
 }
 
 a {
@@ -160,42 +111,57 @@ a:hover {
 	color:#39f
 }
 
-#webaddress {
-	margin-top: 1em;
+.pagebreak { page-break-before: always; } /* page-break-after works, as well */
+
+span.ich {
+	color: #d6002b;
+}
+/*
+@media only screen and (max-width: 480px) {
+	make one column somehow...
+}*/
+
+#list h2,h3 {
 	position: relative;
-	/*left: 33%;*/
-	color: #aaa;
-	font-family: Raleway,Menlo,monospace,sans-serif;
-	font-size: 80%;
+	left: -300px;
 }
 
-#webaddress a {
-	text-decoration: none;
+#list dl {
+  position: relative;
+	left: -100px;
+}
+
+#list h3 {
+  clear: both;
+  margin: 0;
+  float: left;
+  display: table-cell;
+  width: 180px;
+  margin-right: -180px;
+  padding: 0;
+}
+
+#list dl dt {
+  float: left;
+  padding: 0 5px;
+  display: table-cell;
+  width: 80px;
+  margin-top: 0px;
+	font-style: italic;
+}
+
+#list dl dd {
+    display:table-cell;
+}
+
+#list li {
+		padding-bottom: 0.5em;
 }
 
 em {
-	font-weight: bold;
 	font-style: italic;
 }
 
 strong {
 	font-weight: bold;
 }
-
-#address {
-	display: none;
-}
-
-.pagebreak { page-break-before: always; } /* page-break-after works, as well */
-
-ul {
-    orphans: 3;
-  }
-
-span.ich {
-	color: #a00;
-}
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
