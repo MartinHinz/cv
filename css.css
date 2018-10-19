@@ -169,3 +169,5 @@ strong {
 div.trigger {
 	float:right;
 }
+
+.pagebreak { page-break-before: always; } /* page-break-after works, as well */
