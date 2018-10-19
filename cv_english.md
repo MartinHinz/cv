@@ -27,6 +27,7 @@ CH-3012 Bern
 
 <div id="list" markdown="1">
 ## Personal information
+
 ### Test
 
 date of birth
