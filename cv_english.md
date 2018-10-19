@@ -28,7 +28,7 @@ CH-3012 Bern
 <div id="list" markdown="1">
 ## Personal information
 
-date of birth
+date&nbsp;of&nbsp;birth
 : - 12.05.1977
 
 place&nbsp;of&nbsp;birth
@@ -37,7 +37,7 @@ place&nbsp;of&nbsp;birth
 nationality
 : - Germany
 
-marital status
+marital&nbsp;status
 : - Single
 
 children
