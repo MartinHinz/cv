@@ -29,27 +29,32 @@ CH-3012 Bern
 
 ## Personal information
 
-### Test
-
-date of birth
+### date of birth
+&nbsp;
 : - 12.05.1977
 
-place of birth
+### place of birth
+&nbsp;
 : - Wismar
 
-nationality
+### nationality
+&nbsp;
 : - Germany
 
-marital status
+### marital status
+&nbsp;
 : - Single
 
-children
+### children
+&nbsp;
 : - 2 (Mira 2012; Merle 2014)
 
-OrcID
+### OrcID
+&nbsp;
 : - 0000-0002-9904-6548
 
-ResearchID
+### ResearchID
+&nbsp;
 : - N-5549-2015
 
 ## education
@@ -254,10 +259,6 @@ in press
 - ISAAK Github Repository
   - [https://github.com/ISAAKiel](https://github.com/ISAAKiel)
 
-## note
-&nbsp;
-: - A continuously updated version of this curriculum vitae is available at [https://github.com/MartinHinz/cv/blob/master/cv_german.md](https://github.com/MartinHinz/cv/blob/master/cv_german.md)
-
 ## competences
 
 ### fields of expertise
@@ -293,6 +294,11 @@ in press
   - Programming languages: PHP; Java; C & C++; HTML; JavaScript; Active Server Pages; Ruby (on Rails); XML
   - Databases: Microsoft Access; MySQL; PostgreSQL; SQlite
   - System development: database design; network technology; structured analysis
+
+## note
+&nbsp;
+: - A continuously updated version of this curriculum vitae is available at [https://github.com/MartinHinz/cv/blob/master/cv_german.md](https://github.com/MartinHinz/cv/blob/master/cv_german.md)
+
 
 <!-- ### Footer
 
