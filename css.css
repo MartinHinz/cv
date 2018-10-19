@@ -165,3 +165,7 @@ em {
 strong {
 	font-weight: bold;
 }
+
+div.trigger {
+	float:right;
+}
