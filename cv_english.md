@@ -31,7 +31,7 @@ CH-3012 Bern
 date of birth
 : - 12.05.1977
 
-place of birth
+place&nbsp;of&nbsp;birth
 : - Wismar
 
 nationality
