@@ -26,6 +26,7 @@ CH-3012 Bern
 </div>
 
 <div id="list" markdown="1">
+
 ## Personal information
 
 ### Test
