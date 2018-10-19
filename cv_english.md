@@ -28,16 +28,16 @@ CH-3012 Bern
 <div id="list" markdown="1">
 ## Personal information
 
-date&nbsp;of&nbsp;birth
+date of birth
 : - 12.05.1977
 
-place&nbsp;of&nbsp;birth
+place of birth
 : - Wismar
 
 nationality
 : - Germany
 
-marital&nbsp;status
+marital status
 : - Single
 
 children
