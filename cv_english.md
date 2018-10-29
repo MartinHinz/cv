@@ -150,8 +150,8 @@ Since 2009
   - Consultant and responsible for web-based programming and data management
 
 ### editorial Board of journals
-: - Since 2013
-  - Co-editor of the Journal of Neolithic Archaeology ([http://www.j-n-a.org](http://www.j-n-a.org))
+Since 2013
+:  - Co-editor of the Journal of Neolithic Archaeology ([http://www.j-n-a.org](http://www.j-n-a.org))
 
 ### activity in scientific associations
 Since 2016
@@ -216,6 +216,8 @@ in press
 &nbsp;
 : - <span class="ich">M. Hinz</span>/C. Schmid/D. Knitter/C. Tietze (2018). oxcAAR: Interface to 'OxCal' Radiocarbon Calibration. R package version 1.0.0. [https://CRAN.R-project.org/package=oxcAAR](https://CRAN.R-project.org/package=oxcAAR)
 - N. Mueller-Scheessel/<span class="ich">M. Hinz</span>/C. Schmid/C. Rinne/D. Knitter/W. Hamer/D. Seidensticker/F. Faupel/C. Tietze/N. Grunert (2017). mortAAR: Analysis of Archaeological Mortality Data. R package version 1.0.0. [https://CRAN.R-project.org/package=mortAAR](https://CRAN.R-project.org/package=mortAAR)
+- C. Schmid/D. Seidensticker/D. Knitter/<span class="ich">M. Hinz</span>/D. Matzig/W. Hamer/K. Schmütz (2018). c14bazAAR: Download and Prepare C14 Dates from Different Source Databases. R package version 1.0.2. [https://CRAN.R-project.org/package=c14bazAAR](https://CRAN.R-project.org/package=c14bazAAR)
+
 
 ## online resources
 ### data bases
