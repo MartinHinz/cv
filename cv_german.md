@@ -219,8 +219,10 @@ Seit 2016
 
 in press
 : - <span class="ich">M. Hinz</span>, ​Megaliths, causewayed enclosures and social space in North Central Europe. Megalithisms and funerary monumentalisms: past, present, future (Sidestone Press, Leiden 2018)
-  - <span class="ich">M. Hinz</span>, From Hunting to Herding? Aspects of the Social and Animal Landscape during the Southern Scandinavian Neolithic. In: A. Haug/L. Käppel/J. Müller, Past Landscapes. The Dynamics of Interaction between Society, Landscape, and Culture (Sidestone Press, Leiden 2018).
-  - M. Furholt/<span class="ich">M. Hinz</span>/D. Mischka, Putting Things into Practice: Exploring the Consequences of Pragmatic Theory for Archaeology. In: A. Haug/L. Käppel/J. Müller, Past Landscapes. The Dynamics of Interaction between Society, Landscape, and Culture (Sidestone Press, Leiden 2018).
+
+2018
+: - <span class="ich">M. Hinz</span>, From Hunting to Herding? Aspects of the Social and Animal Landscape during the Southern Scandinavian Neolithic. In: A. Haug/L. Käppel/J. Müller, Past Landscapes. The Dynamics of Interaction between Society, Landscape, and Culture (Sidestone Press, Leiden 2018). [https://doi.org/10.5281/zenodo.2538016](https://doi.org/10.5281/zenodo.2538016)
+  - M. Furholt/<span class="ich">M. Hinz</span>/D. Mischka, Putting Things into Practice: Exploring the Consequences of Pragmatic Theory for Archaeology. In: A. Haug/L. Käppel/J. Müller, Past Landscapes. The Dynamics of Interaction between Society, Landscape, and Culture (Sidestone Press, Leiden 2018).[https://doi.org/10.5281/zenodo.2538019](https://doi.org/10.5281/zenodo.2538019)
 
 2017
 : - *V. Rohde Krossa/M. Moros/G. Leduc/<span class="ich">M. Hinz</span>/T. Blanz/R. Schneider, Regional climate change and the onset of farming in northern Germany and southern Scandinavia. The Holocene 27(10), 1589–1599. [https://doi.org/10.1177/0959683617702223](https://doi.org/10.1177/0959683617702223)*
