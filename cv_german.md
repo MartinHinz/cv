@@ -132,6 +132,9 @@ seit 08/2016
 
 ### Lehrveranstaltungen der letzten fünf Jahre
 
+2018
+: - 09-12/2018: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz, Uni Bern
+
 2017
 : - 04-07/2017: Übung Lesenswert – Leittexte der Ur- und Frühgeschichte, CAU Kiel  
   - 12/2017-02/2018: Übung Johanna-Mestorf Academy R-Courses, CAU Kiel
@@ -222,7 +225,7 @@ in press
 
 2018
 : - <span class="ich">M. Hinz</span>, From Hunting to Herding? Aspects of the Social and Animal Landscape during the Southern Scandinavian Neolithic. In: A. Haug/L. Käppel/J. Müller, Past Landscapes. The Dynamics of Interaction between Society, Landscape, and Culture (Sidestone Press, Leiden 2018). [https://doi.org/10.5281/zenodo.2538016](https://doi.org/10.5281/zenodo.2538016)
-  - M. Furholt/<span class="ich">M. Hinz</span>/D. Mischka, Putting Things into Practice: Exploring the Consequences of Pragmatic Theory for Archaeology. In: A. Haug/L. Käppel/J. Müller, Past Landscapes. The Dynamics of Interaction between Society, Landscape, and Culture (Sidestone Press, Leiden 2018).[https://doi.org/10.5281/zenodo.2538019](https://doi.org/10.5281/zenodo.2538019)
+  - M. Furholt/<span class="ich">M. Hinz</span>/D. Mischka, Putting Things into Practice: Exploring the Consequences of Pragmatic Theory for Archaeology. In: A. Haug/L. Käppel/J. Müller, Past Landscapes. The Dynamics of Interaction between Society, Landscape, and Culture (Sidestone Press, Leiden 2018). [https://doi.org/10.5281/zenodo.2538019](https://doi.org/10.5281/zenodo.2538019)
 
 2017
 : - *V. Rohde Krossa/M. Moros/G. Leduc/<span class="ich">M. Hinz</span>/T. Blanz/R. Schneider, Regional climate change and the onset of farming in northern Germany and southern Scandinavia. The Holocene 27(10), 1589–1599. [https://doi.org/10.1177/0959683617702223](https://doi.org/10.1177/0959683617702223)*
