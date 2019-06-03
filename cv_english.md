@@ -183,22 +183,15 @@ Since 2007
 : *Published works from publication organs with scientific quality assurance (peer review) are highlighted*
 
 2019
-: - <span class="ich">M. Hinz</span>, J. Müller, & M. Wunderlich. (2019). The monumentalisation of European landscapes. In Müller, Johannes, M. Hinz, & Wunderlich, Maria (Eds.), Megaliths – Societies – Landscapes (pp. 21–23). Bonn: Habelt.
-  - Müller, J, <span class="ich">Hinz, M.</span>, & Wunderlich, Maria. (2019). Megaliths – Societies – Landscapes. Bonn: Habelt.
+: - <span class="ich">M. Hinz</span>, J. Müller, M. Wunderlich. (2019). The monumentalisation of European landscapes. In Müller, Johannes, M. Hinz, & Wunderlich, Maria (Eds.), Megaliths – Societies – Landscapes (pp. 21–23). Bonn: Habelt.
+  - Müller, J, <span class="ich">Hinz, M.</span>, Wunderlich, Maria. (2019). Megaliths – Societies – Landscapes. Bonn: Habelt.
   - M. Wunderlich, J. Müller, & <span class="ich">M. Hinz</span>. (2019). Diversiﬁed monuments: A chronological framework of the creation of monumental landscapes in prehistoric Europe. In Müller, Johannes, M. Hinz, & Wunderlich, Maria (Eds.), Megaliths – Societies – Landscapes (pp. 25–29). Bonn: Habelt.
-  *- Stapfer, R., Heitz, C., <span class="ich">Hinz, M.</span>, & Hafner, A. (2019). Interdisciplinary examinations carried out on heterogeneous coarse ceramics from Neolithic lakeside settlements in the Northern Alpine Foreland (3900–3500 BCE): Analysis strategy and preliminary results from a test series using pXRF. Journal of Archaeological Science: Reports, 25, 217–238. https://doi.org/10.1016/j.jasrep.2019.03.018*
+  *- Stapfer, R., Heitz, C., <span class="ich">Hinz, M.</span>, Hafner, A. (2019). Interdisciplinary examinations carried out on heterogeneous coarse ceramics from Neolithic lakeside settlements in the Northern Alpine Foreland (3900–3500 BCE): Analysis strategy and preliminary results from a test series using pXRF. Journal of Archaeological Science: Reports, 25, 217–238. [https://doi.org/10.1016/j.jasrep.2019.03.018](https://doi.org/10.1016/j.jasrep.2019.03.018)*
 
 2018
 : - <span class="ich">M. Hinz</span>, From Hunting to Herding? Aspects of the Social and Animal Landscape during the Southern Scandinavian Neolithic. In: A. Haug/L. Käppel/J. Müller, Past Landscapes. The Dynamics of Interaction between Society, Landscape, and Culture (Sidestone Press, Leiden 2018). [https://doi.org/10.5281/zenodo.2538016](https://doi.org/10.5281/zenodo.2538016)
   - M. Furholt/<span class="ich">M. Hinz</span>/D. Mischka, Putting Things into Practice: Exploring the Consequences of Pragmatic Theory for Archaeology. In: A. Haug/L. Käppel/J. Müller, Past Landscapes. The Dynamics of Interaction between Society, Landscape, and Culture (Sidestone Press, Leiden 2018). [https://doi.org/10.5281/zenodo.2538019](https://doi.org/10.5281/zenodo.2538019)
-  - Stapfer, R. B., Heitz, C., <span class="ich">Hinz, M.</span>, & Hafner, A. (2018). Portable Röntgenfluoreszenzanalytik (pXRF): Mit dem "Labor in der Hand" der Vergangenheit auf der Spur. In T. Burri & R. B. Stapfer (Eds.), Naturwissenschaftliche Methoden in der Archäologie (Vol. 75, pp. 136–155). Bern: Naturforschende Gesellschaft Bern. https://doi.org/10.7892/boris.126318
-  - <span class="ich">Hinz, M.</span>, Schmid, C., Knitter, D., & Tietze, C. (2018). oxcAAR: Interface to ’OxCal’ Radiocarbon Calibration. https://CRAN.R-project.org/package=oxcAAR
-  - Mueller-Scheessel, N., <span class="ich">Hinz, M.</span>, Schmid, C., Rinne, C., Knitter, D., Hamer, W., … Grunert, N. (2018). mortAAR: Analysis of Archaeological Mortality Data. https://CRAN.R-project.org/package=mortAAR
-  - Schmid, C., Seidensticker, D., Knitter, D., <span class="ich">Hinz, M.</span>, Matzig, D., Hamer, W., & Schmütz, K. (2018). c14bazAAR: Download and Prepare C14 Dates from Different Source Databases. Retrieved from https://CRAN.R-project.org/package=c14bazAAR
-
-
-
-
+  - Stapfer, R. B., Heitz, C., <span class="ich">Hinz, M.</span>, & Hafner, A. (2018). Portable Röntgenfluoreszenzanalytik (pXRF): Mit dem "Labor in der Hand" der Vergangenheit auf der Spur. In T. Burri & R. B. Stapfer (Eds.), Naturwissenschaftliche Methoden in der Archäologie (Vol. 75, pp. 136–155). Bern: Naturforschende Gesellschaft Bern. [https://doi.org/10.7892/boris.126318](https://doi.org/10.7892/boris.126318)
 
 2017
 : - *V. Rohde Krossa/M. Moros/G. Leduc/<span class="ich">M. Hinz</span>/T. Blanz/R. Schneider, Regional climate change and the onset of farming in northern Germany and southern Scandinavia. The Holocene 27(10), 1589–1599. [https://doi.org/10.1177/0959683617702223](https://doi.org/10.1177/0959683617702223)*
