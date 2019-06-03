@@ -226,17 +226,13 @@ Since 2007
 ## online resources
 ### data bases
 &nbsp;
-: - RADON - Radiocarbon dates online
-  - Central European and Scandinavian database of 14C dates for the Neolithic and Early Bronze Age.
+: - RADON - Radiocarbon dates online (Central European and Scandinavian database of 14C dates for the Neolithic and Early Bronze Age.)
   - [http://radon.ufg.uni-kiel.de](http://radon.ufg.uni-kiel.de)
-- RADON-B  - Radiocarbon dates online
-  - Database for European 14C dates for the Bronze and Early Iron Age
+- RADON-B - Radiocarbon dates online (Database for European 14C dates for the Bronze and Early Iron Age)
   - [http://radon.ufg.uni-kiel.de](http://radon.ufg.uni-kiel.de)
-- Database of the Eythra Project
-  - Restricted access
+- Database of the Eythra Project (Restricted access)
   - [http://vmeythra.rz.uni-leipzig.de/](http://vmeythra.rz.uni-leipzig.de/)
-- Database of the MET project
-  - Restricted access
+- Database of the MET project (Restricted access)
   - [http://metdb.iaw.unibe.ch](http://metdb.iaw.unibe.ch)
 
 ### online applications
@@ -248,7 +244,7 @@ Since 2007
 &nbsp;
 : - online video tutorials
   - video channel for statistical methods in archaeology
-  - [https://www.youtube.com/channel/UCNhj3I--Xhm1plgLpR2V2Cw](https://www.youtube.com/channel/UCNhj3I--Xhm1plgLpR2V2Cw)
+  - [http://vitutr.archaeological.science](http://vitutr.archaeological.science)
 
 ### software
 &nbsp;
