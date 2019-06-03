@@ -182,6 +182,9 @@ Since 2007
 &nbsp;
 : *Published works from publication organs with scientific quality assurance (peer review) are highlighted*
 
+in press
+: - *I. Feeser, W. Dörfler, J. Kneisel, <span class="ich">M. Hinz</span>, S. Dreibrodt. Human impact and population dynamics in the Neolithic and Bronze Age: multi-proxy evidence from north-western Central Europe. The Holocene.*
+
 2019
 : - <span class="ich">M. Hinz</span>, J. Müller, M. Wunderlich. (2019). The monumentalisation of European landscapes. In Müller, Johannes, M. Hinz, & Wunderlich, Maria (Eds.), Megaliths – Societies – Landscapes (pp. 21–23). Bonn: Habelt.
   - Müller, J, <span class="ich">Hinz, M.</span>, Wunderlich, Maria. (2019). Megaliths – Societies – Landscapes. Bonn: Habelt.
