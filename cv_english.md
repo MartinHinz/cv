@@ -190,6 +190,7 @@ in press
   - Müller, J, <span class="ich">Hinz, M.</span>, Wunderlich, Maria. (2019). Megaliths – Societies – Landscapes. Bonn: Habelt.
   - M. Wunderlich, J. Müller, & <span class="ich">M. Hinz</span>. (2019). Diversiﬁed monuments: A chronological framework of the creation of monumental landscapes in prehistoric Europe. In Müller, Johannes, M. Hinz, & Wunderlich, Maria (Eds.), Megaliths – Societies – Landscapes (pp. 25–29). Bonn: Habelt.
   - *Stapfer, R., Heitz, C., <span class="ich">Hinz, M.</span>, Hafner, A. (2019). Interdisciplinary examinations carried out on heterogeneous coarse ceramics from Neolithic lakeside settlements in the Northern Alpine Foreland (3900–3500 BCE): Analysis strategy and preliminary results from a test series using pXRF. Journal of Archaeological Science: Reports, 25, 217–238. [https://doi.org/10.1016/j.jasrep.2019.03.018](https://doi.org/10.1016/j.jasrep.2019.03.018)*
+  - *Schmid, C., Seidensticker, D., <span class="ich">Hinz, M.</span> (2019). c14bazAAR: An R package for downloading and preparing C14 dates from different source databases. Journal of Open Source Software. https://doi.org/10.21105/joss.01914*
 
 2018
 : - <span class="ich">M. Hinz</span>, From Hunting to Herding? Aspects of the Social and Animal Landscape during the Southern Scandinavian Neolithic. In: A. Haug/L. Käppel/J. Müller, Past Landscapes. The Dynamics of Interaction between Society, Landscape, and Culture (Sidestone Press, Leiden 2018). [https://doi.org/10.5281/zenodo.2538016](https://doi.org/10.5281/zenodo.2538016)
