@@ -182,15 +182,14 @@ Since 2007
 &nbsp;
 : *Published works from publication organs with scientific quality assurance (peer review) are highlighted*
 
-in press
-: - *I. Feeser, W. Dörfler, J. Kneisel, <span class="ich">M. Hinz</span>, S. Dreibrodt. Human impact and population dynamics in the Neolithic and Bronze Age: multi-proxy evidence from north-western Central Europe. The Holocene.*
-
 2019
 : - <span class="ich">M. Hinz</span>, J. Müller, M. Wunderlich. (2019). The monumentalisation of European landscapes. In Müller, Johannes, M. Hinz, & Wunderlich, Maria (Eds.), Megaliths – Societies – Landscapes (pp. 21–23). Bonn: Habelt.
   - Müller, J, <span class="ich">Hinz, M.</span>, Wunderlich, Maria. (2019). Megaliths – Societies – Landscapes. Bonn: Habelt.
   - M. Wunderlich, J. Müller, & <span class="ich">M. Hinz</span>. (2019). Diversiﬁed monuments: A chronological framework of the creation of monumental landscapes in prehistoric Europe. In Müller, Johannes, M. Hinz, & Wunderlich, Maria (Eds.), Megaliths – Societies – Landscapes (pp. 25–29). Bonn: Habelt.
   - *Stapfer, R., Heitz, C., <span class="ich">Hinz, M.</span>, Hafner, A. (2019). Interdisciplinary examinations carried out on heterogeneous coarse ceramics from Neolithic lakeside settlements in the Northern Alpine Foreland (3900–3500 BCE): Analysis strategy and preliminary results from a test series using pXRF. Journal of Archaeological Science: Reports, 25, 217–238. [https://doi.org/10.1016/j.jasrep.2019.03.018](https://doi.org/10.1016/j.jasrep.2019.03.018)*
   - *Schmid, C., Seidensticker, D., <span class="ich">Hinz, M.</span> (2019). c14bazAAR: An R package for downloading and preparing C14 dates from different source databases. Journal of Open Source Software. https://doi.org/10.21105/joss.01914*
+  - *Feeser, I., Dörfler, W., Kneisel, J., <span class="ich">Hinz, M.</span>, & Dreibrodt, S. (2019). Human impact and population dynamics in the Neolithic and Bronze Age: Multi-proxy evidence from north-western Central Europe. The Holocene. https://doi.org/10.1177/0959683619857223*
+  - *Arponen, V. P. J., Dörfler, W., Feeser, I., Grimm, S., Groß, D., <span class="ich">Hinz, M.</span>, … Ribeiro, A. (2019). Environmental determinism and archaeology. Understanding and evaluating determinism in research design. Archaeological Dialogues, 26(01), 1–9. https://doi.org/10.1017/S1380203819000059*
 
 2018
 : - <span class="ich">M. Hinz</span>, From Hunting to Herding? Aspects of the Social and Animal Landscape during the Southern Scandinavian Neolithic. In: A. Haug/L. Käppel/J. Müller, Past Landscapes. The Dynamics of Interaction between Society, Landscape, and Culture (Sidestone Press, Leiden 2018). [https://doi.org/10.5281/zenodo.2538016](https://doi.org/10.5281/zenodo.2538016)
