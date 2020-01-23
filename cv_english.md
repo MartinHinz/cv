@@ -171,9 +171,9 @@ Since 2007
 
 ### conference organization
 4.-6.02.2019
-: [DAB2019 'Quantitative approaches, spatial statistics and socioecological modelling'](http://www.oeschger.unibe.ch/dab2019)
+: - [DAB2019 'Quantitative approaches, spatial statistics and socioecological modelling'](http://www.oeschger.unibe.ch/dab2019)
 16.–20.06.2015
-: [Megaliths, Societies, Landscapes: Early Monumentality and Social Differentiation in Neolithic Europe](http://megaconf2015.ufg.uni-kiel.de/)
+  - [Megaliths, Societies, Landscapes: Early Monumentality and Social Differentiation in Neolithic Europe](http://megaconf2015.ufg.uni-kiel.de/)
 
 ### excavations
 2019
@@ -199,7 +199,7 @@ Since 2007
   - *Schmid, C., Seidensticker, D., <span class="ich">Hinz, M.</span> (2019). c14bazAAR: An R package for downloading and preparing C14 dates from different source databases. Journal of Open Source Software. [https://doi.org/10.21105/joss.01914](https://doi.org/10.21105/joss.01914)*
   - *Feeser, I., Dörfler, W., Kneisel, J., <span class="ich">Hinz, M.</span>, & Dreibrodt, S. (2019). Human impact and population dynamics in the Neolithic and Bronze Age: Multi-proxy evidence from north-western Central Europe. The Holocene. [https://doi.org/10.1177/0959683619857223](https://doi.org/10.1177/0959683619857223)*
   - *Arponen, V. P. J., Dörfler, W., Feeser, I., Grimm, S., Groß, D., <span class="ich">Hinz, M.</span>, … Ribeiro, A. (2019). Environmental determinism and archaeology. Understanding and evaluating determinism in research design. Archaeological Dialogues, 26(01), 1–9. [https://doi.org/10.1017/S1380203819000059](https://doi.org/10.1017/S1380203819000059)*
-  - *<span class="ich">Hinz</span>, M., Schirrmacher, J., Kneisel, J., Rinne, C., & Weinelt, M. (2019). The Chalcolithic–Bronze Age transition in southern Iberia under the influence of the 4.2 kyr event? A correlation of climatological and demographic proxies. Journal of Neolithic Archaeology, 21, 1–26. [https://doi.org/10.12766/jna.2019.1]*
+  - *<span class="ich">Hinz, M.</span>, Schirrmacher, J., Kneisel, J., Rinne, C., & Weinelt, M. (2019). The Chalcolithic–Bronze Age transition in southern Iberia under the influence of the 4.2 kyr event? A correlation of climatological and demographic proxies. Journal of Neolithic Archaeology, 21, 1–26. [https://doi.org/10.12766/jna.2019.1](https://doi.org/10.12766/jna.2019.1)*
 
 2018
 : - <span class="ich">M. Hinz</span>, From Hunting to Herding? Aspects of the Social and Animal Landscape during the Southern Scandinavian Neolithic. In: A. Haug/L. Käppel/J. Müller, Past Landscapes. The Dynamics of Interaction between Society, Landscape, and Culture (Sidestone Press, Leiden 2018). [https://doi.org/10.5281/zenodo.2538016](https://doi.org/10.5281/zenodo.2538016)
