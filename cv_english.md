@@ -97,7 +97,7 @@ since 09/2018
 :  - 09-12/2019: Übung Von der Datenauswertung zur Publikation. Open Science und Reproducible Research in der Praxis, Uni Bern
   - 09-12/2019: Übung Computational Archaeology, Uni Bern
   - 09-12/2019: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz, Uni Bern
-  - 07-08/2019: Summer School Serteya/Russia
+  - 07-08/2019: Summer School Wetland Excavations in Serteya/Russia
   - 02-05/2019: Übung Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie, Uni Bern
   - 02-05/2019: Übung Statistical methods for archaeological data analysis I: Basic methods, Uni Bern
   - 02-05/2019: Übung Relative Chronologie II - Das Neolithikum in der Schweiz, Uni Bern
@@ -113,26 +113,17 @@ since 09/2018
 : - 08-09/2016: Field School Wangels: Excavation of a megalithic tomb, CAU Kiel
 
 2015
-: - 07-08/2015: Field School Wangels: Excavation of a megalithic tomb, CAU Kiel  
+: - 07-08/2015: Field School Wangels: Excavation of a megalithic tomb, CAU Kiel
   - 04-07/2015: Übung Lesenswert II, Grundtexte der archäologischen Nachbardisziplinen, CAU Kiel
-
-2014
-: - 10/2014-02/2015: Übung Grundlegende statistische Verfahren für archäologische Datenanalyse in R, CAU Kiel  
-  - 10/2014-02/2015: Übung Keramikaufnahme und -auswertung, CAU Kiel  
-  - 04-07/2014: Übung Darstellung und Vorstellung: Visualisierung in der Archäologie, CAU Kiel  
-  - 04-07/2014: Übung Lesenswert? - Leittexte der Ur- und Frühgeschichte, CAU Kiel  
-  - 09-12/2014: Übung Aufnahme und statistische Auswertung archäologischer Daten, Uni Bern  
-
-2013
-: - 04–07/2013: Übung Archäologische Nachhersage. Prädiktive Modelle für Forschung und Denkmalpflege, CAU Kiel  
-  - 04–07/2013: Übung 'Von der Agrarwirtschaft zum Metallhandwerker' Modelle in der Archäologie, CAU Kiel  
 
 ### supervision (last five years)
 
+2019
+:   - Jan-Erik Schlicht, MA, *Zentralität und Emerging Causality am Beispiel der iberischen kupferzeitlichen 'Megasites' (working title)*
+
 2018
-: - Merle Oelbüttel, BA, *Kupfer- und Bronzezeitliche Landschaftsentwicklung auf der südlichen iberischen Halbinsel anhand von Pollendaten (Arbeitstitel)*
-  - Jan-Erik Schlicht, MA, *Zentralität und Emerging Causality am Beispiel der iberischen kupferzeitlichen 'Megasites' (Arbeitstitel)*
-  - Clemens Schmid, MA, *Modellierung des Überganges von Körper- zu Brandbestattung in der europäischen Bronzezeit (Arbeitstitel)*
+: - Merle Oelbüttel, BA, *Kupfer- und Bronzezeitliche Landschaftsentwicklung auf der südlichen iberischen Halbinsel anhand von Pollendaten*
+  - Clemens Schmid, MA, *Ein computerbasiertes Cultural Evolution Modell zur Ausbreitungsdynamik europäisch-bronzezeitlicher Bestattungssitten*
 
 2017
 :  - Benjamin Drogat, BA, *Spuren ritueller Handlungen beim Bau trichterbecherzeitlicher Megalithgräber am Beispiel Wangels LA 69*
@@ -165,19 +156,28 @@ Since 2009
 Since 2013
 :  - Co-editor of the Journal of Neolithic Archaeology ([http://www.j-n-a.org](http://www.j-n-a.org))
 
+Since 2019
+:  - Co-editor of the Journal of Glacial Archaeology ([https://www.equinoxpub.com/home/journals/journal-of-glacial-archaeology/](https://www.equinoxpub.com/home/journals/journal-of-glacial-archaeology/))
+
 ### activity in scientific associations
+Since 2019
+: - founding member of the 'Swiss TAG' ([https://swisstag.hcommons.org/](https://swisstag.hcommons.org/))
+
 Since 2016
 : - founding member of the 'Initiative for Statistical Analysis in Archaeology Kiel (ISAAK)' ([https://isaakiel.github.io/](https://isaakiel.github.io/))
-
 
 Since 2007
 : - Member of the board of the 'Arbeitsgemeinschaft Theorien in der Archäologie e.V. (AG TidA)' (German TAG), ([http://www.agtida.de/](http://www.agtida.de/))
 
 ### conference organization
+4.-6.02.2019
+: [DAB2019 'Quantitative approaches, spatial statistics and socioecological modelling'](http://www.oeschger.unibe.ch/dab2019)
 16.–20.06.2015
 : [Megaliths, Societies, Landscapes: Early Monumentality and Social Differentiation in Neolithic Europe](http://megaconf2015.ufg.uni-kiel.de/)
 
-### excavation director
+### excavations
+2019
+: - Serteya, Russia (Neolithic wetland settlement) (07-08/2019)
 
 2014–2016
 : - Oldenburg/Wangels LA 69 (megalithic passage tomb) (07-08/2014, 07-08/2015, 08-09/2016)
@@ -199,6 +199,7 @@ Since 2007
   - *Schmid, C., Seidensticker, D., <span class="ich">Hinz, M.</span> (2019). c14bazAAR: An R package for downloading and preparing C14 dates from different source databases. Journal of Open Source Software. [https://doi.org/10.21105/joss.01914](https://doi.org/10.21105/joss.01914)*
   - *Feeser, I., Dörfler, W., Kneisel, J., <span class="ich">Hinz, M.</span>, & Dreibrodt, S. (2019). Human impact and population dynamics in the Neolithic and Bronze Age: Multi-proxy evidence from north-western Central Europe. The Holocene. [https://doi.org/10.1177/0959683619857223](https://doi.org/10.1177/0959683619857223)*
   - *Arponen, V. P. J., Dörfler, W., Feeser, I., Grimm, S., Groß, D., <span class="ich">Hinz, M.</span>, … Ribeiro, A. (2019). Environmental determinism and archaeology. Understanding and evaluating determinism in research design. Archaeological Dialogues, 26(01), 1–9. [https://doi.org/10.1017/S1380203819000059](https://doi.org/10.1017/S1380203819000059)*
+  - *<span class="ich">Hinz</span>, M., Schirrmacher, J., Kneisel, J., Rinne, C., & Weinelt, M. (2019). The Chalcolithic–Bronze Age transition in southern Iberia under the influence of the 4.2 kyr event? A correlation of climatological and demographic proxies. Journal of Neolithic Archaeology, 21, 1–26. [https://doi.org/10.12766/jna.2019.1]*
 
 2018
 : - <span class="ich">M. Hinz</span>, From Hunting to Herding? Aspects of the Social and Animal Landscape during the Southern Scandinavian Neolithic. In: A. Haug/L. Käppel/J. Müller, Past Landscapes. The Dynamics of Interaction between Society, Landscape, and Culture (Sidestone Press, Leiden 2018). [https://doi.org/10.5281/zenodo.2538016](https://doi.org/10.5281/zenodo.2538016)
@@ -220,12 +221,6 @@ Since 2007
   - <span class="ich">M. Hinz</span>, Growth and Decline? Population dynamics of Funnel beaker societies in the 4th millenium BC. In: K. Brink/S. Hydén/K. Jennbert/L. Larsson/D. Olausson (Hrsg.), Neolithic Diversities. Perspectives from a conference in Lund, Sweden. Acta Arch. Lundensia Ser. 8, No. 65 (Lund 2015) 43–57. [https://doi.org/10.5281/zenodo.1185597](https://doi.org/10.5281/zenodo.1185597)
   - M. Weinelt/C. Schwab/J. Kneisel/<span class="ich">M. Hinz</span>, Climate and societal change in the western Mediterranean area around 4.2 ka BP. In: H. Meller/H. W. Arz/R. Jung/R. Risch (Hrsg.), 2200 BC - Ein Klimasturz als Ursache für den Zerfall der alten Welt: 7. Mitteldeutscher Archäologentag vom 23. bis 26. Oktober 2014 in Halle. Landesamt f. Denkmalpflege u. Archäologie Sachsen-Anhalt (Halle 2015) 461–480. [https://doi.org/10.5281/zenodo.1185581](https://doi.org/10.5281/zenodo.1185581)
   - O. Nakoinz/<span class="ich">M. Hinz</span>, Modelle in der Archäologie. In: B. Thalheim/I. Nissen (eds.), Wissenschaft & Kunst der Modellierung. Kieler Zugang zur Definition, Nutzung und Zukunft (Berlin u.a. 2015) 219–249. [https://doi.org/10.5281/zenodo.1185312](https://doi.org/10.5281/zenodo.1185312)
-
-2014
-: - *<span class="ich">M. Hinz</span>/J. Müller, The Absolute Speed of Change: Multidimensional Scaling and Innovation Rates. Archaeometry 57(3), 2015, 560–581. [https://doi.org/10.1111/arcm.12111](https://doi.org/10.1111/arcm.12111)*
-  - *<span class="ich">M. Hinz</span>, Neolithische Siedlungsstrukturen im südöstlichen Schleswig-Holstein. Dynamik in Landschaft und Besiedlung (Bonn 2014). [https://doi.org/10.5281/zenodo.1185298](https://doi.org/10.5281/zenodo.1185298)*
-  - M. Furholt/<span class="ich">M. Hinz</span>/D. Mischka/G. Noble/D. Olausson (eds.), Landscapes, Histories and Societies in the Northern European Neolithic. Frühe Monumentalität u. soziale Differenzierung 4 (Bonn 2014). [https://doi.org/10.5281/zenodo.1185286](https://doi.org/10.5281/zenodo.1185286)
-  - <span class="ich">M. Hinz</span>, Same but diﬀerent? Neolithic economic and cultural change in northern Germany. In: M. Furholt/<span class="ich">M. Hinz</span>/D. Mischka/G. Noble/D. Olausson (eds.), Landscapes, Histories and Societies in the Northern European Neolithic. Frühe Monumentalität u. soziale Differenzierung 4 (Bonn 2014) 207–218. [https://doi.org/10.5281/zenodo.1185280](https://doi.org/10.5281/zenodo.1185280)
 
 ## published software
 ### R packages
@@ -305,10 +300,10 @@ Since 2007
 
 ## note
 &nbsp;
-: - A continuously updated version of this curriculum vitae is available at [https://github.com/MartinHinz/cv/blob/master/cv_german.md](https://github.com/MartinHinz/cv/blob/master/cv_german.md)
+: - A continuously updated version of this curriculum vitae is available at [https://github.com/MartinHinz/cv/blob/master/cv_english.md](https://github.com/MartinHinz/cv/blob/master/cv_english.md)
 
 
 <!-- ### Footer
 
-Last updated: October 2018 -->
+Last updated: January 2020 -->
 </div>
