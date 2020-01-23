@@ -93,6 +93,15 @@ since 09/2018
 
 ### teaching (last five years)
 
+2019
+:  - 09-12/2019: Übung Von der Datenauswertung zur Publikation. Open Science und Reproducible Research in der Praxis, Uni Bern
+  - 09-12/2019: Übung Computational Archaeology, Uni Bern
+  - 09-12/2019: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz, Uni Bern
+  - 07-08/2019: Summer School Serteya/Russia
+  - 02-05/2019: Übung Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie, Uni Bern
+  - 02-05/2019: Übung Statistical methods for archaeological data analysis I: Basic methods, Uni Bern
+  - 02-05/2019: Übung Relative Chronologie II - Das Neolithikum in der Schweiz, Uni Bern
+
 2018
 : - 09-12/2018: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz, Uni Bern
 
