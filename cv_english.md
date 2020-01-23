@@ -172,8 +172,9 @@ Since 2007
 ### conference organization
 4.-6.02.2019
 : - [DAB2019 'Quantitative approaches, spatial statistics and socioecological modelling'](http://www.oeschger.unibe.ch/dab2019)
+
 16.–20.06.2015
-  - [Megaliths, Societies, Landscapes: Early Monumentality and Social Differentiation in Neolithic Europe](http://megaconf2015.ufg.uni-kiel.de/)
+: - [Megaliths, Societies, Landscapes: Early Monumentality and Social Differentiation in Neolithic Europe](http://megaconf2015.ufg.uni-kiel.de/)
 
 ### excavations
 2019
