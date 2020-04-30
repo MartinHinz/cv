@@ -196,7 +196,7 @@ Since 2007
 : - Müller, J, <span class="ich">Hinz, M.</span>, Wunderlich, Maria. (2019). Megaliths – Societies – Landscapes. Bonn: Habelt.
   - *Stapfer, R., Heitz, C., <span class="ich">Hinz, M.</span>, Hafner, A. (2019). Interdisciplinary examinations carried out on heterogeneous coarse ceramics from Neolithic lakeside settlements in the Northern Alpine Foreland (3900–3500 BCE): Analysis strategy and preliminary results from a test series using pXRF. Journal of Archaeological Science: Reports, 25, 217–238. [https://doi.org/10.1016/j.jasrep.2019.03.018](https://doi.org/10.1016/j.jasrep.2019.03.018)*
   - *Feeser, I., Dörfler, W., Kneisel, J., <span class="ich">Hinz, M.</span>, & Dreibrodt, S. (2019). Human impact and population dynamics in the Neolithic and Bronze Age: Multi-proxy evidence from north-western Central Europe. The Holocene. [https://doi.org/10.1177/0959683619857223](https://doi.org/10.1177/0959683619857223)*
-  - *Arponen, V. P. J., Dörfler, W., Feeser, I., Grimm, S., Groß, D., <span class="ich">Hinz, M.</span>, … Ribeiro, A. (2019). Environmental determinism and archaeology. Understanding and evaluating determinism in research design. Archaeological Dialogues, 26(01), 1–9. [https://doi.org/10.1017/S1380203819000059](https://doi.org/10.1017/S1380203819000059)*
+  - *Arponen, V. P. J., Dörfler, W., Feeser, I., Grimm, S., Groß, D., <span class="ich">Hinz, M.</span>, Knitter, D., Müller-Scheeßel, N., Ott, K., & Ribeiro, A. (2019). Environmental determinism and archaeology. Understanding and evaluating determinism in research design. Archaeological Dialogues, 26(01), 1–9. [https://doi.org/10.1017/S1380203819000059](https://doi.org/10.1017/S1380203819000059)*
   - *<span class="ich">Hinz, M.</span>, Schirrmacher, J., Kneisel, J., Rinne, C., & Weinelt, M. (2019). The Chalcolithic–Bronze Age transition in southern Iberia under the influence of the 4.2 kyr event? A correlation of climatological and demographic proxies. Journal of Neolithic Archaeology, 21, 1–26. [https://doi.org/10.12766/jna.2019.1](https://doi.org/10.12766/jna.2019.1)*
 
 2018
@@ -211,11 +211,6 @@ Since 2007
 
 2015
 : - J. Müller/<span class="ich">M. Hinz</span>/M. Ullrich, Bell Beakers – chronology, innovation and memory: a multivariate approach. In: M. P. Prieto Martinez/L. Salanova (Hrsg.), The bell beaker transition in Europe: mobility and local evolution during the 3rd Millennium Bc (Oxford 2015) 57–68. [https://doi.org/10.5281/zenodo.1185599](https://doi.org/10.5281/zenodo.1185599)
-
-## note
-&nbsp;
-: - A continuously updated version of this curriculum vitae is available at [https://github.com/MartinHinz/cv/blob/master/cv_english.md](https://github.com/MartinHinz/cv/blob/master/cv_english.md)
-
 
 <!-- ### Footer
 
