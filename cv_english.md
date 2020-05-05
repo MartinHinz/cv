@@ -192,7 +192,7 @@ Since 2007
 &nbsp;
 : *Published works from publication organs with scientific quality assurance (peer review) are highlighted*
 
-2019
+2020
 : - *Schirrmacher, J., Kneisel, J., Knitter, D., Hamer, W., <span class="ich">Hinz, M.</span>, Schneider, R. R., & Weinelt, M. (2020). Spatial patterns of temperature, precipitation, and settlement dynamics on the Iberian Peninsula during the Chalcolithic and the Bronze Age. Quaternary Science Reviews, 233, 1–17. https://doi.org/10.1016/j.quascirev.2020.106220*
 
 2019
