@@ -251,12 +251,6 @@ Since 2007
 : - Tool for Online Seriation and Correspondence Analysis (TOSCA)
   - [http://tosca.archaeological.science](http://tosca.archaeological.science)
 
-### e-learning
-&nbsp;
-: - online video tutorials
-  - video channel for statistical methods in archaeology
-  - [http://vitutr.archaeological.science](http://vitutr.archaeological.science)
-
 ### software
 &nbsp;
 : - Personal Github Repository
