@@ -127,8 +127,11 @@ ResearchID
 02/2015–07/2016
 : - Post-Doctoral Fellow für 'Ancient Socio-Environmental Modelling' an der Graduiertenschule 'Human Development in Landscapes' an der Christian Albrechts Universität zu Kiel ([http://www.gshdl.uni-kiel.de/](http://www.gshdl.uni-kiel.de/))
 
-seit 08/2016
+08/2016-08/2018
 : - Post-Doctoral Fellow im Projekt F1 des SFB 1266 TransformationsDimensionen’ ([https://www.sfb1266.uni-kiel.de](https://www.sfb1266.uni-kiel.de))
+
+seit 09/2018
+: - Oberassistent am Institut für Archäologische Wissenschaften, Abteilung Prähistorische Archäologie, der Universität Bern [http://www.iaw.unibe.ch](http://www.iaw.unibe.ch)
 
 ### Lehrveranstaltungen der letzten fünf Jahre
 
