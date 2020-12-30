@@ -71,10 +71,10 @@ CH-3012 Bern
 ### university education
 
 2008–2011
-: - PhD Scholarship at the Graduate School 'Human Development in Landscapes' at the Christian Albrechts University of Kiel, Germany. Degree: Doctor of Philosophy (Dr. phi. CAU Kiel), June 21, 2011. Title of dissertation: 'Neolithische Siedlungsstrukturen im südöstlichen Schleswig-Holstein. Dynamik in Landschaft und Besiedlung'. Supervisor Prof. Dr. Johannes Müller (Institut für Ur- und Frühgeschichte, CAU Kiel), Prof. Dr. Rainer Duttmann (Lehrstuhl für Landschaftsökologie und Geoinformation, CAU Kiel), with distinction 'magna cum laude' (0,8)
+: - PhD Scholarship at the Graduate School 'Human Development in Landscapes' at the Christian Albrechts University of Kiel, Germany. Degree: Doctor of Philosophy (Dr. phi. CAU Kiel), June 21, 2011. Thesis 'Neolithische Siedlungsstrukturen im südöstlichen Schleswig-Holstein. Dynamik in Landschaft und Besiedlung'. Supervisor Prof. Dr. Johannes Müller (Institut für Ur- und Frühgeschichte, CAU Kiel), Prof. Dr. Rainer Duttmann (Lehrstuhl für Landschaftsökologie und Geoinformation, CAU Kiel), with distinction 'magna cum laude' (0,8)
 
 1998–2008
-: - Studies in Pre- and Early History, Classical Archaeology, Medieval and Modern History, Computer Science and European Ethnology at the Free University of Berlin and Christian Albrechts University of Kiel. Degree: Master of Arts (M.A.), February 6, 2008.  Title of master thesis: 'Eine multivariate Analyse Aunjetitzer Fundkomplexe'. Supervisor Dr. Johannes Müller, Prof. Dr. Ulrich Müller (both Institute for Pre- and Protohistorical Archaeology, CAU Kiel), with distinction 'Very good' (1.0)
+: - Studies in Pre- and Early History, Classical Archaeology, Medieval and Modern History, Computer Science and European Ethnology at the Free University of Berlin and Christian Albrechts University of Kiel. Degree: Master of Arts (M.A.), February 6, 2008. Thesis 'Eine multivariate Analyse Aunjetitzer Fundkomplexe'. Supervisor Dr. Johannes Müller, Prof. Dr. Ulrich Müller (both Institute for Pre- and Protohistorical Archaeology, CAU Kiel), with distinction 'Very good' (1.0)
 
 ## relevant work experience
 ### employments
