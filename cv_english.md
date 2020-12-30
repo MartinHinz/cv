@@ -102,23 +102,23 @@ since 09/2018
   - 09-12: Übung GIS in Archaeology
   
 2019
-: - 09-12: Übung Von der Datenauswertung zur Publikation. Open Science und Reproducible Research in der Praxis, Uni Bern
-  - 09-12: Übung Computational Archaeology, Uni Bern
-  - 09-12: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz, Uni Bern
+: - 09-12: Übung Von der Datenauswertung zur Publikation. Open Science und Reproducible Research in der Praxis
+  - 09-12: Übung Computational Archaeology
+  - 09-12: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz
   - 07-08: Summer School Wetland Excavations in Serteya/Russia
-  - 02-05: Übung Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie, Uni Bern
-  - 02-05: Übung Statistical methods for archaeological data analysis I: Basic methods, Uni Bern
-  - 02-05: Übung Relative Chronologie II - Das Neolithikum in der Schweiz, Uni Bern
+  - 02-05: Übung Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie
+  - 02-05: Übung Statistical methods for archaeological data analysis I: Basic methods
+  - 02-05: Übung Relative Chronologie II - Das Neolithikum in der Schweiz
 
 2018
-: - 09-12: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz, Uni Bern
-  - 01-02: Übung Johanna-Mestorf Academy R-Courses, CAU Kiel
+: - 09-12: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz
+  - 01-02: Übung Johanna-Mestorf Academy R-Courses
 
 2017
-: - 04-07: Übung Lesenswert – Leittexte der Ur- und Frühgeschichte, CAU Kiel  
+: - 04-07: Übung Lesenswert – Leittexte der Ur- und Frühgeschichte
 
 2016
-: - 08-09/2016: Field School Wangels: Excavation of a megalithic tomb, CAU Kiel
+: - 08-09/2016: Field School Wangels: Excavation of a megalithic tomb
 
 ### supervision (last five years)
 
