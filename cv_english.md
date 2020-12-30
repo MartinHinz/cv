@@ -93,8 +93,16 @@ since 09/2018
 
 ### teaching (last five years)
 
+2020
+: - 02-05/2020: Proseminar Methoden in der Prähistorischen Archäologie
+  - 02-05/2020: Übung Relative Chronologie II - Das Neolithikum in der Schweiz
+  - 02-05/2020: Übung Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie
+  - 02-05/2020: Übung Archäologische Vermessungskunde und Geophysikalische Prospektionsmethoden
+  - 09-12/2020: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz
+  - 09-12/2020: Übung GIS in Archaeology
+  
 2019
-:  - 09-12/2019: Übung Von der Datenauswertung zur Publikation. Open Science und Reproducible Research in der Praxis, Uni Bern
+: - 09-12/2019: Übung Von der Datenauswertung zur Publikation. Open Science und Reproducible Research in der Praxis, Uni Bern
   - 09-12/2019: Übung Computational Archaeology, Uni Bern
   - 09-12/2019: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz, Uni Bern
   - 07-08/2019: Summer School Wetland Excavations in Serteya/Russia
@@ -112,10 +120,6 @@ since 09/2018
 2016
 : - 08-09/2016: Field School Wangels: Excavation of a megalithic tomb, CAU Kiel
 
-2015
-: - 07-08/2015: Field School Wangels: Excavation of a megalithic tomb, CAU Kiel
-  - 04-07/2015: Übung Lesenswert II, Grundtexte der archäologischen Nachbardisziplinen, CAU Kiel
-
 ### supervision (last five years)
 
 2019
@@ -130,11 +134,12 @@ since 09/2018
    - Bastian Wolthoff, BA, *Eine multivariate Statistik zur Untersuchung der Keramikverzierung in der frühneolithischen Siedlung von Vráble, SW-Slowakei*
    - Moiken Elisabeth Hinrichs, BA, *Eine struktur-räumliche Analyse der Einzelgrabkultur in südwest Jütland*
 
-2015
-:  - Tanja Schreiber, BA, *Vorbronzezeitlichen Eliten? Eine Untersuchung der schnurkeramischen, glockenbecherzeitlichen und aunjetitzzeitlichen Bestattungen des Mittelelbe-Saale-Gebietes*
-  - Jenny Schmid, BA, *Bleckendorf und Lüdelsen 3: Mischinventare im 3. vorchristlichen Jahrtausend und ihre kulturelle Bedeutung*
+### project PI
+Since 2020
+: - XRONOS – Open Access Database for absolute chronological archaeological information (SNF IZCOZ0_198153)
 
-
+Since 2020
+: - Disclose the Archaeology of Wetland Neolithic (DAWN) - Expanding scientific exchange between Belarusian and Swiss Wetland Archaeology on the beginning of the Corded Ware Culture (Seed Funding Grant with countries of CIS Region 2020)
 
 ### project participation
 
@@ -152,14 +157,23 @@ Since 2009
 : - Member of the DFG project 'Eythra, Lkr. Leipzig: a linear and stichband ceramic settlement and its key function for understanding the Early Neolithic development in Central Germany' (SM 299/2-3; VE 117/5-3)
   - Consultant and responsible for web-based programming and data management
 
-### editorial Board of journals
-Since 2013
-:  - Co-editor of the Journal of Neolithic Archaeology ([http://www.j-n-a.org](http://www.j-n-a.org))
+### editorial board of journals
+Since 2019
+:  - Member of the Editorial Board of the Journal of Computer Applications in Archaeology ([https://journal.caa-international.org](https://journal.caa-international.org))
 
 Since 2019
-:  - Co-editor of the Journal of Glacial Archaeology ([https://www.equinoxpub.com/home/journals/journal-of-glacial-archaeology/](https://www.equinoxpub.com/home/journals/journal-of-glacial-archaeology/))
+:  - Editor of the Journal of Glacial Archaeology ([https://journal.equinoxpub.com/JGA](https://journal.equinoxpub.com/JGA))
+
+Since 2013
+:  - Editor of the Journal of Neolithic Archaeology ([http://www.j-n-a.org](http://www.j-n-a.org))
 
 ### activity in scientific associations
+Since 2020
+: - Founding member and Secretary of the 'CAA National Chapter Switzerland' ([https://caa-switzerland.ch](https://caa-switzerland.ch))
+
+Since 2020
+: - Founding member and Convener of the 'CAA SIG Scientific Scripting Languages in Archaeology' ([https://sslarch.github.io](https://sslarch.github.io))
+
 Since 2019
 : - founding member of the 'Swiss TAG' ([https://swisstag.hcommons.org/](https://swisstag.hcommons.org/))
 
@@ -170,6 +184,9 @@ Since 2007
 : - Member of the board of the 'Arbeitsgemeinschaft Theorien in der Archäologie e.V. (AG TidA)' (German TAG), ([http://www.agtida.de/](http://www.agtida.de/))
 
 ### conference organization
+19.-20.01.2021
+: - [International Workshop 'Theorizing Resilience & Vulnerability in Ancient Studies'](http://resilience2021.archaeological.science)
+
 4.-6.02.2019
 : - [DAB2019 'Quantitative approaches, spatial statistics and socioecological modelling'](http://www.oeschger.unibe.ch/dab2019)
 
@@ -194,6 +211,10 @@ Since 2007
 
 2020
 : - *Schirrmacher, J., Kneisel, J., Knitter, D., Hamer, W., <span class="ich">Hinz, M</span>, Schneider, R.R, Weinelt, M. (2020). Spatial patterns of temperature, precipitation, and settlement dynamics on the Iberian Peninsula during the Chalcolithic and the Bronze Age. Quaternary Science Reviews, 233, 2020, 1–17. https://doi.org/10.1016/j.quascirev.2020.106220*
+  - *Brunner, M., von Felten, J., <span class="ich">Hinz, M.</span>, & Hafner, A. (2020). Central European Early Bronze Age chronology revisited: A Bayesian examination of large-scale radiocarbon dating. PLOS ONE, 15(12), e0243719. https://doi.org/10.1371/journal.pone.0243719*
+  - *<span class="ich">Hinz, M.</span> (2020). Sensitivity of Radiocarbon Sum Calibration. Journal of Computer Applications in Archaeology, 3(1), 238–252. https://doi.org/10.5334/jcaa.53*
+  - Hafner, A., <span class="ich">Hinz, M.</span>, Mazurkevich, A. N., Dolbunova, E. V., & Pranckenaite, E. (2020). Introduction: Neolithic and Bronze Age pile dwellings in Europe. In A. Hafner, E. Dolbunova, A. Mazurkevich, E. Pranckenaite, & M. Hinz (Eds.), Settling waterscapes in Europe. The archaeology of Neolithic and Bronze Age pile-dwellings. (Vol. 1, pp. 1–6). Propylaeum.
+  - Hafner, A., Dolbunova, E., Mazurkevich, A., Pranckenaite, E., & <span class="ich">Hinz, M.</span> (Eds.). (2020). Settling waterscapes in Europe. The archaeology of Neolithic and Bronze Age pile-dwellings. (Vol. 1). Propylaeum.
 
 2019
 : - <span class="ich">M. Hinz</span>, J. Müller, M. Wunderlich. (2019). The monumentalisation of European landscapes. In Müller, Johannes, M. Hinz, & Wunderlich, Maria (Eds.), Megaliths – Societies – Landscapes (pp. 21–23). Bonn: Habelt.
@@ -219,20 +240,12 @@ Since 2007
   - F. Hage/G. Schafferer/<span class="ich">M. Hinz</span>, Common motivation, different intentions? A multiscalar approach to the megalithic architecture of the Funnel Beaker North Group. In: L. Laporte/C. Scarre (Hrsg.), The Megalithic Architectures of Europe (Oxford 2016) 145–154. [https://doi.org/10.5281/zenodo.1186098](https://doi.org/10.5281/zenodo.1186098)
   - <span class="ich">M. Hinz</span>/W. Kirleis, Stability in a changing world: insights from settlement intensity patterns and archaeobotany. In: L. Laporte/C. Scarre (Hrsg.), The Megalithic Architectures of Europe (Oxford 2016) 507–215. [https://doi.org/10.5281/zenodo.1186102](https://doi.org/10.5281/zenodo.1186102)
 
-2015
-: - <span class="ich">M. Hinz</span>, Norddeutschland im vierten vorchristlichen Jahrtausend. In: W. Dörfler/W. Kirleis/J. Müller (Hrsg.), MEGALITHsite Kiel (Hamburg 2015) 10–17. [http://doi.org/10.5281/zenodo.1186208](http://doi.org/10.5281/zenodo.1186208)
-  - J. Müller/<span class="ich">M. Hinz</span>/M. Ullrich, Bell Beakers – chronology, innovation and memory: a multivariate approach. In: M. P. Prieto Martinez/L. Salanova (Hrsg.), The bell beaker transition in Europe: mobility and local evolution during the 3rd Millennium Bc (Oxford 2015) 57–68. [https://doi.org/10.5281/zenodo.1185599](https://doi.org/10.5281/zenodo.1185599)
-  - <span class="ich">M. Hinz</span>, Growth and Decline? Population dynamics of Funnel beaker societies in the 4th millenium BC. In: K. Brink/S. Hydén/K. Jennbert/L. Larsson/D. Olausson (Hrsg.), Neolithic Diversities. Perspectives from a conference in Lund, Sweden. Acta Arch. Lundensia Ser. 8, No. 65 (Lund 2015) 43–57. [https://doi.org/10.5281/zenodo.1185597](https://doi.org/10.5281/zenodo.1185597)
-  - M. Weinelt/C. Schwab/J. Kneisel/<span class="ich">M. Hinz</span>, Climate and societal change in the western Mediterranean area around 4.2 ka BP. In: H. Meller/H. W. Arz/R. Jung/R. Risch (Hrsg.), 2200 BC - Ein Klimasturz als Ursache für den Zerfall der alten Welt: 7. Mitteldeutscher Archäologentag vom 23. bis 26. Oktober 2014 in Halle. Landesamt f. Denkmalpflege u. Archäologie Sachsen-Anhalt (Halle 2015) 461–480. [https://doi.org/10.5281/zenodo.1185581](https://doi.org/10.5281/zenodo.1185581)
-  - O. Nakoinz/<span class="ich">M. Hinz</span>, Modelle in der Archäologie. In: B. Thalheim/I. Nissen (eds.), Wissenschaft & Kunst der Modellierung. Kieler Zugang zur Definition, Nutzung und Zukunft (Berlin u.a. 2015) 219–249. [https://doi.org/10.5281/zenodo.1185312](https://doi.org/10.5281/zenodo.1185312)
-
 ## published software
 ### R packages
 &nbsp;
 : - <span class="ich">M. Hinz</span>/C. Schmid/D. Knitter/C. Tietze (2018). oxcAAR: Interface to 'OxCal' Radiocarbon Calibration. R package version 1.0.0. [https://CRAN.R-project.org/package=oxcAAR](https://CRAN.R-project.org/package=oxcAAR)
 - N. Mueller-Scheessel/<span class="ich">M. Hinz</span>/C. Schmid/C. Rinne/D. Knitter/W. Hamer/D. Seidensticker/F. Faupel/C. Tietze/N. Grunert (2017). mortAAR: Analysis of Archaeological Mortality Data. R package version 1.0.0. [https://CRAN.R-project.org/package=mortAAR](https://CRAN.R-project.org/package=mortAAR)
 - C. Schmid/D. Seidensticker/D. Knitter/<span class="ich">M. Hinz</span>/D. Matzig/W. Hamer/K. Schmütz (2018). c14bazAAR: Download and Prepare C14 Dates from Different Source Databases. R package version 1.0.2. [https://CRAN.R-project.org/package=c14bazAAR](https://CRAN.R-project.org/package=c14bazAAR)
-
 
 ## online resources
 ### data bases
@@ -303,5 +316,5 @@ Since 2007
 
 <!-- ### Footer
 
-Last updated: January 2020 -->
+Last updated: December 2020 -->
 </div>
