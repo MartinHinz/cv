@@ -111,6 +111,8 @@ Since 2012
 Since 2009
 : - Member of the DFG project 'Eythra, Lkr. Leipzig: a linear and stichband ceramic settlement and its key function for understanding the Early Neolithic development in Central Germany' (SM 299/2-3; VE 117/5-3)
 
+<div class="pagebreak"> </div>
+
 ### teaching (last five years)
 
 2020
@@ -133,8 +135,6 @@ Since 2009
 2018
 : - 09-12: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz
   - 01-02: Übung Johanna-Mestorf Academy R-Courses
-
-<div class="pagebreak"> </div>
 
 2017
 : - 04-07: Übung Lesenswert – Leittexte der Ur- und Frühgeschichte
