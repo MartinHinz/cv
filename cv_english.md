@@ -62,7 +62,7 @@ CH-3012 Bern
 ### school education
 
 09/1983 – 08/1995
-: - Polytechnic secondary school and high school in Wismar and Leipzig
+: - primary, polytechnic secondary school and high school in Wismar and Leipzig
 
 ### civilian service
 
