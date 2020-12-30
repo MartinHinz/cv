@@ -92,6 +92,25 @@ since 09/2018
 08/2011–01/2015
 : - Assistant Coordinator of the DFG Priority Programme SPP 1400 'Early Monumentality and Social Differentiation' at the Institute for Prehistory and Early History of the CAU Kiel ([http://www.monument.ufg.uni-kiel.de/](http://www.monument.ufg.uni-kiel.de/))
 
+### project PI
+Since 2020
+: - XRONOS – Open Access Database for absolute chronological archaeological information (SNF IZCOZ0_198153)
+
+Since 2020
+: - Disclose the Archaeology of Wetland Neolithic (DAWN) - Expanding scientific exchange between Belarusian and Swiss Wetland Archaeology on the beginning of the Corded Ware Culture (Seed Funding Grant with countries of CIS Region 2020)
+
+### project participation
+
+Since 2014
+: - Leading developer and data manager of 'RADON-B – Radiocarbondates online (version 2014): Database for European 14C dates for the Bronze and Early Iron Age' ([http://radon-b.ufg.uni-kiel.de](http://radon-b.ufg.uni-kiel.de))
+  - Member of the SNSF project "Mobilities, Entanglements and Transformations in Neolithic Societies on the Swiss Plateau (3900-3500 BC)".
+
+Since 2012
+: - Leading developer and data manager of 'RADON - Radiocarbon dates online 2014: Central European and Scandinavian database of 14C dates for the Neolithic and Early Bronze Age' ([http://radon.ufg.uni-kiel.de](http://radon.ufg.uni-kiel.de))
+
+Since 2009
+: - Member of the DFG project 'Eythra, Lkr. Leipzig: a linear and stichband ceramic settlement and its key function for understanding the Early Neolithic development in Central Germany' (SM 299/2-3; VE 117/5-3)
+
 ### teaching (last five years)
 
 2020
@@ -136,25 +155,6 @@ since 09/2018
 :  - Benjamin Drogat, BA, *Spuren ritueller Handlungen beim Bau trichterbecherzeitlicher Megalithgräber am Beispiel Wangels LA 69*
    - Bastian Wolthoff, BA, *Eine multivariate Statistik zur Untersuchung der Keramikverzierung in der frühneolithischen Siedlung von Vráble, SW-Slowakei*
    - Moiken Elisabeth Hinrichs, BA, *Eine struktur-räumliche Analyse der Einzelgrabkultur in südwest Jütland*
-
-### project PI
-Since 2020
-: - XRONOS – Open Access Database for absolute chronological archaeological information (SNF IZCOZ0_198153)
-
-Since 2020
-: - Disclose the Archaeology of Wetland Neolithic (DAWN) - Expanding scientific exchange between Belarusian and Swiss Wetland Archaeology on the beginning of the Corded Ware Culture (Seed Funding Grant with countries of CIS Region 2020)
-
-### project participation
-
-Since 2014
-: - Leading developer and data manager of 'RADON-B – Radiocarbondates online (version 2014): Database for European 14C dates for the Bronze and Early Iron Age' ([http://radon-b.ufg.uni-kiel.de](http://radon-b.ufg.uni-kiel.de))
-  - Member of the SNSF project "Mobilities, Entanglements and Transformations in Neolithic Societies on the Swiss Plateau (3900-3500 BC)".
-
-Since 2012
-: - Leading developer and data manager of 'RADON - Radiocarbon dates online 2014: Central European and Scandinavian database of 14C dates for the Neolithic and Early Bronze Age' ([http://radon.ufg.uni-kiel.de](http://radon.ufg.uni-kiel.de))
-
-Since 2009
-: - Member of the DFG project 'Eythra, Lkr. Leipzig: a linear and stichband ceramic settlement and its key function for understanding the Early Neolithic development in Central Germany' (SM 299/2-3; VE 117/5-3)
 
 ### editorial board of journals
 Since 2020
