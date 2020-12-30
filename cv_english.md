@@ -65,6 +65,7 @@ CH-3012 Bern
 : - Polytechnic secondary school and high school in Wismar and Leipzig
 
 ### civilian service
+
 1996–1997
 : - Stadtgeschichtliches Museum Wismar
 
@@ -275,7 +276,7 @@ Since 2007
   - quantitative methods and statistics
   - theories of Archaeology
   - megaliths
-  - ^14^C Data
+  - <sup>14</sup>C Data
   - demographic analyses
   - agent-based simulations
   - predictive Modeling/Mapping
