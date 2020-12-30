@@ -111,6 +111,8 @@ since 09/2018
   - 02-05: Übung Statistical methods for archaeological data analysis I: Basic methods
   - 02-05: Übung Relative Chronologie II - Das Neolithikum in der Schweiz
 
+<div class="pagebreak"> </div>
+
 2018
 : - 09-12: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz
   - 01-02: Übung Johanna-Mestorf Academy R-Courses
