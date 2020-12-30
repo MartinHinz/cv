@@ -128,7 +128,8 @@ span.ich {
 
 #list dl {
   position: relative;
-	left: -100px;
+	left: -140px;
+	width: 600px;
 }
 
 #list h3 {
@@ -136,8 +137,8 @@ span.ich {
   margin: 0;
   float: left;
   display: table-cell;
-  width: 180px;
-  margin-right: -180px;
+  width: 150px;
+  margin-right: -150px;
   padding: 0;
 }
 
@@ -145,7 +146,7 @@ span.ich {
   float: left;
   padding: 0 5px;
   display: table-cell;
-  width: 80px;
+  width: 60px;
   margin-top: 0px;
 	font-style: italic;
 }
