@@ -71,10 +71,10 @@ CH-3012 Bern
 ### university education
 
 2008–2011
-: - PhD Scholarship at the Graduate School 'Human Development in Landscapes' at the Christian Albrechts University of Kiel, Germany. Degree: Doctor of Philosophy (Dr. phi. CAU Kiel), June 21, 2011. Title of dissertation: 'Neolithische Siedlungsstrukturen im südöstlichen Schleswig-Holstein. Dynamik in Landschaft und Besiedlung' (Neolithic settlement structures in southeastern Schleswig-Holstein. Dynamics in landscape and population) . Supervisor Prof. Dr. Johannes Müller (Institut für Ur- und Frühgeschichte, CAU Kiel), Prof. Dr. Rainer Duttmann (Lehrstuhl für Landschaftsökologie und Geoinformation, CAU Kiel), with distinction 'magna cum laude' (0,8)
+: - PhD Scholarship at the Graduate School 'Human Development in Landscapes' at the Christian Albrechts University of Kiel, Germany. Degree: Doctor of Philosophy (Dr. phi. CAU Kiel), June 21, 2011. Title of dissertation: 'Neolithische Siedlungsstrukturen im südöstlichen Schleswig-Holstein. Dynamik in Landschaft und Besiedlung'. Supervisor Prof. Dr. Johannes Müller (Institut für Ur- und Frühgeschichte, CAU Kiel), Prof. Dr. Rainer Duttmann (Lehrstuhl für Landschaftsökologie und Geoinformation, CAU Kiel), with distinction 'magna cum laude' (0,8)
 
 1998–2008
-: - Studies in Pre- and Early History, Classical Archaeology, Medieval and Modern History, Computer Science and European Ethnology at the Free University of Berlin and Christian Albrechts University of Kiel. Degree: Master of Arts (M.A.), February 6, 2008.  Title of master thesis: 'Eine multivariate Analyse Aunjetitzer Fundkomplexe' (A multivariate analysis of Aunjetitz artefact complexes). Supervisor Dr. Johannes Müller, Prof. Dr. Ulrich Müller (both Institute for Pre- and Protohistorical Archaeology, CAU Kiel), with distinction 'Very good' (1.0)
+: - Studies in Pre- and Early History, Classical Archaeology, Medieval and Modern History, Computer Science and European Ethnology at the Free University of Berlin and Christian Albrechts University of Kiel. Degree: Master of Arts (M.A.), February 6, 2008.  Title of master thesis: 'Eine multivariate Analyse Aunjetitzer Fundkomplexe'. Supervisor Dr. Johannes Müller, Prof. Dr. Ulrich Müller (both Institute for Pre- and Protohistorical Archaeology, CAU Kiel), with distinction 'Very good' (1.0)
 
 ## relevant work experience
 ### employments
@@ -145,9 +145,7 @@ Since 2020
 
 Since 2014
 : - Leading developer and data manager of 'RADON-B – Radiocarbondates online (version 2014): Database for European 14C dates for the Bronze and Early Iron Age' ([http://radon-b.ufg.uni-kiel.de](http://radon-b.ufg.uni-kiel.de))
-
-Since 2014
-: - Member of the SNSF project "Mobilities, Entanglements and Transformations in Neolithic Societies on the Swiss Plateau (3900-3500 BC)".
+  - Member of the SNSF project "Mobilities, Entanglements and Transformations in Neolithic Societies on the Swiss Plateau (3900-3500 BC)".
 
 Since 2012
 : - Leading developer and data manager of 'RADON - Radiocarbon dates online 2014: Central European and Scandinavian database of 14C dates for the Neolithic and Early Bronze Age' ([http://radon.ufg.uni-kiel.de](http://radon.ufg.uni-kiel.de))
@@ -156,7 +154,7 @@ Since 2009
 : - Member of the DFG project 'Eythra, Lkr. Leipzig: a linear and stichband ceramic settlement and its key function for understanding the Early Neolithic development in Central Germany' (SM 299/2-3; VE 117/5-3)
 
 ### editorial board of journals
-Since 2019
+Since 2020
 :  - Member of the Editorial Board of the Journal of Computer Applications in Archaeology ([https://journal.caa-international.org](https://journal.caa-international.org))
 
 Since 2019
@@ -168,9 +166,7 @@ Since 2013
 ### activity in scientific associations
 Since 2020
 : - Founding member and Secretary of the 'CAA National Chapter Switzerland' ([https://caa-switzerland.ch](https://caa-switzerland.ch))
-
-Since 2020
-: - Founding member and Convener of the 'CAA SIG Scientific Scripting Languages in Archaeology' ([https://sslarch.github.io](https://sslarch.github.io))
+  - Founding member and Convener of the 'CAA SIG Scientific Scripting Languages in Archaeology' ([https://sslarch.github.io](https://sslarch.github.io))
 
 Since 2019
 : - founding member of the 'Swiss TAG' ([https://swisstag.hcommons.org/](https://swisstag.hcommons.org/))
