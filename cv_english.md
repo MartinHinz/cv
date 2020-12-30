@@ -47,7 +47,7 @@ CH-3012 Bern
 
 ### children
 &nbsp;
-: - 2 (Mira 2012; Merle 2014)
+: - 2 (Mira 2012; Merle 2015)
 
 ### OrcID
 &nbsp;
