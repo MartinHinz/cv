@@ -208,9 +208,9 @@ Since 2007
 
 2020
 : - *Schirrmacher, J., Kneisel, J., Knitter, D., Hamer, W., <span class="ich">Hinz, M</span>, Schneider, R.R, Weinelt, M. (2020). Spatial patterns of temperature, precipitation, and settlement dynamics on the Iberian Peninsula during the Chalcolithic and the Bronze Age. Quaternary Science Reviews, 233, 2020, 1–17. https://doi.org/10.1016/j.quascirev.2020.106220*
-  - *Brunner, M., von Felten, J., <span class="ich">Hinz, M.</span>, & Hafner, A. (2020). Central European Early Bronze Age chronology revisited: A Bayesian examination of large-scale radiocarbon dating. PLOS ONE, 15(12), e0243719. https://doi.org/10.1371/journal.pone.0243719*
-  - *<span class="ich">Hinz, M.</span> (2020). Sensitivity of Radiocarbon Sum Calibration. Journal of Computer Applications in Archaeology, 3(1), 238–252. https://doi.org/10.5334/jcaa.53*
-  - Hafner, A., <span class="ich">Hinz, M.</span>, Mazurkevich, A. N., Dolbunova, E. V., & Pranckenaite, E. (2020). Introduction: Neolithic and Bronze Age pile dwellings in Europe. In A. Hafner, E. Dolbunova, A. Mazurkevich, E. Pranckenaite, & M. Hinz (Eds.), Settling waterscapes in Europe. The archaeology of Neolithic and Bronze Age pile-dwellings. (Vol. 1, pp. 1–6). Propylaeum.
+  - *Brunner, M., von Felten, J., <span class="ich">Hinz, M.</span>, & Hafner, A. (2020). Central European Early Bronze Age chronology revisited: A Bayesian examination of large-scale radiocarbon dating. PLOS ONE, 15(12), e0243719. [https://doi.org/10.1371/journal.pone.0243719](https://doi.org/10.1371/journal.pone.0243719)*
+  - *<span class="ich">Hinz, M.</span> (2020). Sensitivity of Radiocarbon Sum Calibration. Journal of Computer Applications in Archaeology, 3(1), 238–252. [https://doi.org/10.5334/jcaa.53](https://doi.org/10.5334/jcaa.53)*
+  - Hafner, A., <span class="ich">Hinz, M.</span>, Mazurkevich, A. N., Dolbunova, E. V., & Pranckenaite, E. (2020). Introduction: Neolithic and Bronze Age pile dwellings in Europe. In A. Hafner, E. Dolbunova, A. Mazurkevich, E. Pranckenaite, & M. Hinz (Eds.), Settling waterscapes in Europe. The archaeology of Neolithic and Bronze Age pile-dwellings. (Vol. 1, pp. 1–6). Propylaeum. [https://doi.org/10.11588/propylaeum.714](https://doi.org/10.11588/propylaeum.714)
   - Hafner, A., Dolbunova, E., Mazurkevich, A., Pranckenaite, E., & <span class="ich">Hinz, M.</span> (Eds.). (2020). Settling waterscapes in Europe. The archaeology of Neolithic and Bronze Age pile-dwellings. (Vol. 1). Propylaeum.
 
 2019
