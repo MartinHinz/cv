@@ -148,14 +148,12 @@ Since 2014
 
 Since 2014
 : - Member of the SNSF project "Mobilities, Entanglements and Transformations in Neolithic Societies on the Swiss Plateau (3900-3500 BC)".
-  - Consultant and responsible for web-based programming and data management as well as statistical analysis and modelling
 
 Since 2012
 : - Leading developer and data manager of 'RADON - Radiocarbon dates online 2014: Central European and Scandinavian database of 14C dates for the Neolithic and Early Bronze Age' ([http://radon.ufg.uni-kiel.de](http://radon.ufg.uni-kiel.de))
 
 Since 2009
 : - Member of the DFG project 'Eythra, Lkr. Leipzig: a linear and stichband ceramic settlement and its key function for understanding the Early Neolithic development in Central Germany' (SM 299/2-3; VE 117/5-3)
-  - Consultant and responsible for web-based programming and data management
 
 ### editorial board of journals
 Since 2019
