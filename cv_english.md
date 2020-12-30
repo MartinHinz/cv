@@ -156,9 +156,10 @@ Since 2009
    - Bastian Wolthoff, BA, *Eine multivariate Statistik zur Untersuchung der Keramikverzierung in der frühneolithischen Siedlung von Vráble, SW-Slowakei*
    - Moiken Elisabeth Hinrichs, BA, *Eine struktur-räumliche Analyse der Einzelgrabkultur in südwest Jütland*
 
-### editorial board of journals
+### editorial board memberships
 Since 2020
 :  - Member of the Editorial Board of the Journal of Computer Applications in Archaeology ([https://journal.caa-international.org](https://journal.caa-international.org))
+   - Editor of the 'Open Series in Prehistoric Archaeology' ([https://books.ub.uni-heidelberg.de/propylaeum/series/info/ospa](https://books.ub.uni-heidelberg.de/propylaeum/series/info/ospa)) 
 
 Since 2019
 :  - Editor of the Journal of Glacial Archaeology ([https://journal.equinoxpub.com/JGA](https://journal.equinoxpub.com/JGA))
