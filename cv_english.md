@@ -94,28 +94,28 @@ since 09/2018
 ### teaching (last five years)
 
 2020
-: - 02-05/2020: Proseminar Methoden in der Prähistorischen Archäologie
-  - 02-05/2020: Übung Relative Chronologie II - Das Neolithikum in der Schweiz
-  - 02-05/2020: Übung Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie
-  - 02-05/2020: Übung Archäologische Vermessungskunde und Geophysikalische Prospektionsmethoden
-  - 09-12/2020: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz
-  - 09-12/2020: Übung GIS in Archaeology
+: - 02-05: Proseminar Methoden in der Prähistorischen Archäologie
+  - 02-05: Übung Relative Chronologie II - Das Neolithikum in der Schweiz
+  - 02-05: Übung Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie
+  - 02-05: Übung Archäologische Vermessungskunde und Geophysikalische Prospektionsmethoden
+  - 09-12: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz
+  - 09-12: Übung GIS in Archaeology
   
 2019
-: - 09-12/2019: Übung Von der Datenauswertung zur Publikation. Open Science und Reproducible Research in der Praxis, Uni Bern
-  - 09-12/2019: Übung Computational Archaeology, Uni Bern
-  - 09-12/2019: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz, Uni Bern
-  - 07-08/2019: Summer School Wetland Excavations in Serteya/Russia
-  - 02-05/2019: Übung Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie, Uni Bern
-  - 02-05/2019: Übung Statistical methods for archaeological data analysis I: Basic methods, Uni Bern
-  - 02-05/2019: Übung Relative Chronologie II - Das Neolithikum in der Schweiz, Uni Bern
+: - 09-12: Übung Von der Datenauswertung zur Publikation. Open Science und Reproducible Research in der Praxis, Uni Bern
+  - 09-12: Übung Computational Archaeology, Uni Bern
+  - 09-12: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz, Uni Bern
+  - 07-08: Summer School Wetland Excavations in Serteya/Russia
+  - 02-05: Übung Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie, Uni Bern
+  - 02-05: Übung Statistical methods for archaeological data analysis I: Basic methods, Uni Bern
+  - 02-05: Übung Relative Chronologie II - Das Neolithikum in der Schweiz, Uni Bern
 
 2018
-: - 09-12/2018: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz, Uni Bern
+: - 09-12: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz, Uni Bern
+  - 01-02: Übung Johanna-Mestorf Academy R-Courses, CAU Kiel
 
 2017
-: - 04-07/2017: Übung Lesenswert – Leittexte der Ur- und Frühgeschichte, CAU Kiel  
-  - 12/2017-02/2018: Übung Johanna-Mestorf Academy R-Courses, CAU Kiel
+: - 04-07: Übung Lesenswert – Leittexte der Ur- und Frühgeschichte, CAU Kiel  
 
 2016
 : - 08-09/2016: Field School Wangels: Excavation of a megalithic tomb, CAU Kiel
