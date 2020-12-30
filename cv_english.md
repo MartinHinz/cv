@@ -124,7 +124,7 @@ since 09/2018
 ### supervision (last five years)
 
 2019
-:   - Jan-Erik Schlicht, MA, *Zentralität und Emerging Causality am Beispiel der iberischen kupferzeitlichen 'Megasites' (working title)*
+:   - Jan-Erik Schlicht, MA, *Emergenz sozialer Räume: Diachrone Untersuchungen von Rohmaterialverteilungsmustern im Spätneolithikum und in der Kupferzeit in Süd- und Zentralportugal*
 
 2018
 : - Merle Oelbüttel, BA, *Kupfer- und Bronzezeitliche Landschaftsentwicklung auf der südlichen iberischen Halbinsel anhand von Pollendaten*
