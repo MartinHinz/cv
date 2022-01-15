@@ -121,42 +121,25 @@ Since 2020
 ### teaching (last five years)
 
 2021
-: - 02-05: Seminar Das Drei-Seen-Land der Westschweiz: ein archäologischer Kulturraum von herausragender Bedeutung.
-  - 02-05: Kolloquium Forschungskolloquium zur Prähistorischen Archäologie
-  - 02-05: Übung Statistical methods for archaeological data analysis: Basic methods
-  - 02-05: Übung Relative Chronologie II - Das Neolithikum in der Schweiz
-  - 02-05: Proseminar Methoden in der Prähistorischen Archäologie
-  - 09: Swiss International Summer School for Alpine Archaeology
-  - 09-12: Übung Materialanalysen mit portabler Röntgenfluoreszenz (pXRF)
-  - 09-12: Kolloquium Forschungskolloquium zur Prähistorischen Archäologie
-  - 09-12: Übung Computer Aided Archaeology
-  - 09-12: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz
+: - Fall: Swiss International Summer School for Alpine Archaeology, Übung 'Materialanalysen mit portabler Röntgenfluoreszenz (pXRF)', Kolloquium 'Forschungskolloquium zur Prähistorischen Archäologie', Übung 'Computer Aided Archaeology', Übung 'Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz'
+  - Spring: Seminar 'Das Drei-Seen-Land der Westschweiz: ein archäologischer Kulturraum von herausragender Bedeutung.', Kolloquium 'Forschungskolloquium zur Prähistorischen Archäologie', Übung 'Statistical methods for archaeological data analysis: Basic methods', Übung 'Relative Chronologie II - Das Neolithikum in der Schweiz', Proseminar 'Methoden in der Prähistorischen Archäologie'
+
 
 2020
-: - 02-05: Proseminar Methoden in der Prähistorischen Archäologie
-  - 02-05: Übung Relative Chronologie II - Das Neolithikum in der Schweiz
-  - 02-05: Übung Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie
-  - 02-05: Übung Archäologische Vermessungskunde und Geophysikalische Prospektionsmethoden
-  - 02-05: Kolloquium Forschungskolloquium zur Prähistorischen Archäologie
-  - 09-12: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz
-  - 09-12: Übung GIS in Archaeology
-  - 09-12: Kolloquium Forschungskolloquium zur Prähistorischen Archäologie
+: - Fall: Übung 'Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz', Übung 'GIS in Archaeology', Kolloquium 'Forschungskolloquium zur Prähistorischen Archäologie'
+  - Spring: Proseminar 'Methoden in der Prähistorischen Archäologie', Übung 'Relative Chronologie II - Das Neolithikum in der Schweiz', Übung ''Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie', Übung 'Archäologische Vermessungskunde und Geophysikalische Prospektionsmethoden', Kolloquium ''Forschungskolloquium zur Prähistorischen Archäologie'
   
 2019
-: - 09-12: Übung Von der Datenauswertung zur Publikation. Open Science und Reproducible Research in der Praxis
-  - 09-12: Übung Computational Archaeology
-  - 09-12: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz
-  - 07-08: Summer School Wetland Excavations in Serteya/Russia
-  - 02-05: Übung Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie
-  - 02-05: Übung Statistical methods for archaeological data analysis I: Basic methods
-  - 02-05: Übung Relative Chronologie II - Das Neolithikum in der Schweiz
+: - Fall: Übung 'Von der Datenauswertung zur Publikation. Open Science und Reproducible Research in der Praxis', Übung 'Computational Archaeology', Übung 'Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz'
+  - Summer: Summer School Wetland Excavations in Serteya/Russia
+  - Spring: Übung 'Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie', Übung 'Statistical methods for archaeological data analysis I: Basic methods', Übung 'Relative Chronologie II - Das Neolithikum in der Schweiz'
 
 2018
-: - 09-12: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz
-  - 01-02: Übung Johanna-Mestorf Academy R-Courses
+: - Fall: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz
+  - Spring: Übung Johanna-Mestorf Academy R-Courses
 
 2017
-: - 04-07: Übung Lesenswert – Leittexte der Ur- und Frühgeschichte
+: - Spring: Übung Lesenswert – Leittexte der Ur- und Frühgeschichte
 
 ### supervision (last five years)
 
