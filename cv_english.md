@@ -72,25 +72,25 @@ CH-3012 Bern
 ### university education
 
 2008–2011
-: - PhD Scholarship at the Graduate School 'Human Development in Landscapes' at the CAU Kiel, Germany. Degree: Dr. phil., June 21, 2011. Thesis 'Neolithische Siedlungsstrukturen im südöstlichen Schleswig-Holstein. Dynamik in Landschaft und Besiedlung'. Supervisor Prof. Dr. Johannes Müller, Prof. Dr. Rainer Duttmann. With distinction 'magna cum laude' (0,8)
+: - PhD Scholarship, Graduate School 'Human Development in Landscapes', CAU Kiel, Germany. Degree: Dr. phil., June 21, 2011. Thesis 'Neolithische Siedlungsstrukturen im südöstlichen Schleswig-Holstein. Dynamik in Landschaft und Besiedlung'. Supervisor Prof. Dr. Johannes Müller, Prof. Dr. Rainer Duttmann. With distinction 'magna cum laude' (0,8)
 
 1998–2008
-: - Studies in Pre- and Early History, Classical Archaeology, Medieval and Modern History, Computer Science and European Ethnology at the FU Berlin and CAU Kiel. Degree: M.A., February 6, 2008. Thesis 'Eine multivariate Analyse Aunjetitzer Fundkomplexe'. Supervisor Prof. Dr. Johannes Müller, Prof. Dr. Ulrich Müller. With distinction 'Very good' (1.0)
+: - Studies in Pre- and Early History, Classical Archaeology, Medieval and Modern History, Computer Science and European Ethnology, FU Berlin and CAU Kiel. Degree: M.A., February 6, 2008. Thesis 'Eine multivariate Analyse Aunjetitzer Fundkomplexe'. Supervisor Prof. Dr. Johannes Müller, Prof. Dr. Ulrich Müller. With distinction 'Very good' (1.0)
 
 ## relevant work experience
 ### employments
 
 since 09/2018
-: - Senior Researcher (Oberassistent) at the Prehistoric department of the Institute for Archaeological Sciences at the University Bern ([http://www.iaw.unibe.ch](http://www.iaw.unibe.ch))
+: - Senior Researcher (Oberassistent), Prehistoric department of the Institute for Archaeological Sciences, University Bern ([http://www.iaw.unibe.ch](http://www.iaw.unibe.ch))
 
 08/2016 - 08/2018
-: - Post-Doctoral Fellow in Project F1 of the SFB 1266 Transformation Dimensions' at the CAU Kiel ([https://www.sfb1266.uni-kiel.de](https://www.sfb1266.uni-kiel.de))
+: - Post-Doctoral Fellow in Project F1 of the SFB 1266 Transformation Dimensions', CAU Kiel ([https://www.sfb1266.uni-kiel.de](https://www.sfb1266.uni-kiel.de))
 
 02/2015–07/2016
-: - Post-Doctoral Fellow for 'Ancient Socio-Environmental Modelling' at the Graduate School 'Human Development in Landscapes' at the CAU Kiel ([http://www.gshdl.uni-kiel.de/](http://www.gshdl.uni-kiel.de/))
+: - Post-Doctoral Fellow for 'Ancient Socio-Environmental Modelling', Graduate School 'Human Development in Landscapes', CAU Kiel ([http://www.gshdl.uni-kiel.de/](http://www.gshdl.uni-kiel.de/))
 
 08/2011–01/2015
-: - Assistant Coordinator of the DFG Priority Programme SPP 1400 'Early Monumentality and Social Differentiation' at the Institute for Prehistory and Early History of the CAU Kiel ([http://www.monument.ufg.uni-kiel.de/](http://www.monument.ufg.uni-kiel.de/))
+: - Assistant Coordinator of the DFG Priority Programme SPP 1400 'Early Monumentality and Social Differentiation', Institute for Prehistory and Early History of the CAU Kiel ([http://www.monument.ufg.uni-kiel.de/](http://www.monument.ufg.uni-kiel.de/))
 
 ### project PI
 Since 2020
@@ -99,29 +99,48 @@ Since 2020
 Since 2020
 : - Disclose the Archaeology of Wetland Neolithic (DAWN) - Expanding scientific exchange between Belarusian and Swiss Wetland Archaeology on the beginning of the Corded Ware Culture (Seed Funding Grant with countries of CIS Region 2020)
 
-### project participation
+### fellowships and grants
 
-Since 2014
-: - Leading developer and data manager of 'RADON-B – Radiocarbondates online (version 2014): Database for European 14C dates for the Bronze and Early Iron Age' ([http://radon-b.ufg.uni-kiel.de](http://radon-b.ufg.uni-kiel.de))
-  - Member of the SNSF project "Mobilities, Entanglements and Transformations in Neolithic Societies on the Swiss Plateau (3900-3500 BC)".
+2021
+: - Berne University Research Foundation Grant, CHF 4'600, Project 'DAWN'
+  - SNF COST Grant, funded by the Swiss National Science Foundation (SNSF), CHF 319'930, Project 'XRONOS'
 
-Since 2012
-: - Leading developer and data manager of 'RADON - Radiocarbon dates online 2014: Central European and Scandinavian database of 14C dates for the Neolithic and Early Bronze Age' ([http://radon.ufg.uni-kiel.de](http://radon.ufg.uni-kiel.de))
+2020
+: - Projects Research Preparation Grant, funded by the State Secretariat for Education, Research and Innovation Switzerland (SERI), CHF 5'000, Project 'DAWN'
+  - Project Grant, funded by the Fund for the Promotion of Young Researchers, University of Bern, CHF 1'950, Project SISA 2020
 
-Since 2009
-: - Member of the DFG project 'Eythra, Lkr. Leipzig: a linear and stichband ceramic settlement and its key function for understanding the Early Neolithic development in Central Germany' (SM 299/2-3; VE 117/5-3)
+2019
+: - Scientific Exchanges Grant, funded by the Swiss National Science Foundation (SNSF), CHF 9'100, Project Digital Archaeology: Quantitative approaches, spatial statistics and socioecological modelling workshop
+  - Teach inspired! Grant, funded by the Collegium Decanale, University of Bern, CHF 2'100, Project 'Theorien in der Archäologie bewegt' Workshop
+
+2008–2011
+: - Ph.D. Fellowship, Funded by German Excellence Initiative, Graduate School 'Human Development in Landscapes', CAU Kiel ([http://www.gshdl.uni-kiel.de/](http://www.gshdl.uni-kiel.de/)), Fully funded fellowship
 
 <div class="pagebreak"> </div>
 
 ### teaching (last five years)
+
+2021
+: - 02-05: Seminar Das Drei-Seen-Land der Westschweiz: ein archäologischer Kulturraum von herausragender Bedeutung.
+  - 02-05: Kolloquium Forschungskolloquium zur Prähistorischen Archäologie
+  - 02-05: Übung Statistical methods for archaeological data analysis: Basic methods
+  - 02-05: Übung Relative Chronologie II - Das Neolithikum in der Schweiz
+  - 02-05: Proseminar Methoden in der Prähistorischen Archäologie
+  - 09: Swiss International Summer School for Alpine Archaeology
+  - 09-12: Übung Materialanalysen mit portabler Röntgenfluoreszenz (pXRF)
+  - 09-12: Kolloquium Forschungskolloquium zur Prähistorischen Archäologie
+  - 09-12: Übung Computer Aided Archaeology
+  - 09-12: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz
 
 2020
 : - 02-05: Proseminar Methoden in der Prähistorischen Archäologie
   - 02-05: Übung Relative Chronologie II - Das Neolithikum in der Schweiz
   - 02-05: Übung Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie
   - 02-05: Übung Archäologische Vermessungskunde und Geophysikalische Prospektionsmethoden
+  - 02-05: Kolloquium Forschungskolloquium zur Prähistorischen Archäologie
   - 09-12: Übung Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz
   - 09-12: Übung GIS in Archaeology
+  - 09-12: Kolloquium Forschungskolloquium zur Prähistorischen Archäologie
   
 2019
 : - 09-12: Übung Von der Datenauswertung zur Publikation. Open Science und Reproducible Research in der Praxis
@@ -139,9 +158,6 @@ Since 2009
 2017
 : - 04-07: Übung Lesenswert – Leittexte der Ur- und Frühgeschichte
 
-2016
-: - 08-09/2016: Field School Wangels: Excavation of a megalithic tomb
-
 ### supervision (last five years)
 
 2019
@@ -157,6 +173,9 @@ Since 2009
    - Moiken Elisabeth Hinrichs, BA, *Eine struktur-räumliche Analyse der Einzelgrabkultur in südwest Jütland*
 
 ### editorial board memberships
+Since 2021
+:  - Member of the Editorial Board of the Journal ‘The Neolithic of Central and Eastern Europe’ (NCEE)
+
 Since 2020
 :  - Member of the Editorial Board of the Journal of Computer Applications in Archaeology ([https://journal.caa-international.org](https://journal.caa-international.org))
    - Editor of the 'Open Series in Prehistoric Archaeology' ([https://books.ub.uni-heidelberg.de/propylaeum/series/info/ospa](https://books.ub.uni-heidelberg.de/propylaeum/series/info/ospa)) 
@@ -207,6 +226,14 @@ Since 2007
 &nbsp;
 : *Published works from publication organs with scientific quality assurance (peer review) are highlighted*
 
+2021
+: - Taylor, W. T. T., Dixon, E. J., Hafner, A., & <span class="ich">Hinz, M.</span> (2021). New Directions in a Warming World. Journal of Glacial Archaeology, 5, 1–3. https://doi.org/10.1558/jga.20547
+  - Affolter, J., Emmenegger, L., Hafner, A., Heitz, C., <span class="ich">Hinz, M.</span>, Stapfer, R., & Wehren, H. (2021). From flint provenance to mobility studies: New raw material determinations from Late Neolithic wetland sites at Lake Biel and Lake Constance. Quaternary International. https://doi.org/10.1016/j.quaint.2021.05.027
+  - Weinelt, M., Kneisel, J., Schirrmacher, J., <span class="ich">Hinz</span>, M., & Ribeiro, A. (2021). Potential responses and resilience of Late Chalcolithic and Early Bronze Age societies to mid-to Late Holocene climate change on the southern Iberian Peninsula. Environmental Research Letters, 16(5), 055007. https://doi.org/10.1088/1748-9326/abd8a8
+  - Heitz, C., Laabs, J., <span class="ich">Hinz, M.</span>, & Hafner, A. (2021). Collapse and Resilience in Prehistoric Archaeology: Questioning Concepts and Causalities in Models of Climate-Induced Societal Transformations (pp. 127–199). Springer International Publishing. https://doi.org/10.1007/978-3-030-81103-7_5
+  - <span class="ich">Hinz, M.</span> (2021). Megaliths, causewayed enclosures and social space in North Central Europe. In V. Ard, E. Mens, & M. Gandelin (Eds.), Mégalithismes et monumentalismes funéraires : passé, présent, futur (pp. 277–318). Sidestone Press.
+  - Heitz, C., <span class="ich">Hinz, M.</span>, Laabs, J., & Hafner, A. (2021). Mobility as resilience capacity in northern Alpine Neolithic settlement communities. Archaeological Review from Cambridge, 36(1), 75–106. https://doi.org/10.17863/CAM.79042
+
 2020
 : - *Schirrmacher, J., Kneisel, J., Knitter, D., Hamer, W., <span class="ich">Hinz, M</span>, Schneider, R.R, Weinelt, M. (2020). Spatial patterns of temperature, precipitation, and settlement dynamics on the Iberian Peninsula during the Chalcolithic and the Bronze Age. Quaternary Science Reviews, 233, 2020, 1–17. https://doi.org/10.1016/j.quascirev.2020.106220*
   - *Brunner, M., von Felten, J., <span class="ich">Hinz, M.</span>, & Hafner, A. (2020). Central European Early Bronze Age chronology revisited: A Bayesian examination of large-scale radiocarbon dating. PLOS ONE, 15(12), e0243719. [https://doi.org/10.1371/journal.pone.0243719](https://doi.org/10.1371/journal.pone.0243719)*
@@ -232,11 +259,6 @@ Since 2007
 2017
 : - *V. Rohde Krossa/M. Moros/G. Leduc/<span class="ich">M. Hinz</span>/T. Blanz/R. Schneider, Regional climate change and the onset of farming in northern Germany and southern Scandinavia. The Holocene 27(10), 1589–1599. [https://doi.org/10.1177/0959683617702223](https://doi.org/10.1177/0959683617702223)*
   - *S. Dreibrodt/M. Furholt/R. Hofmann/<span class="ich">M. Hinz</span>/I. Cheben, P-ed-XRF-geochemical signatures of a 7300 year old Linear Band Pottery house ditch fill at Vráble-Ve'lké Lehemby, Slovakia - House inhabitation and post-depositional processes. Quaternary International 438, Part B, 131-143. [https://doi.org/10.1016/j.quaint.2017.03.054](https://doi.org/10.1016/j.quaint.2017.03.054)*
-
-2016
-: - *V. P. J. Arponen/J. Müller/R. Hofmann/M. Furholt/A. Ribeiro/C. Horn/<span class="ich">M. Hinz</span>, Using the Capability Approach to Conceptualise Inequality in Archaeology: the Case of the Late Neolithic Bosnian Site Okolište c. 5200–4600 BCE. Journal of Archaeological Method and Theory Volume 23/2 (2016), 541–560. [https://doi.org/10.1007/s10816-015-9252-0](https://doi.org/10.1007/s10816-015-9252-0)*
-  - F. Hage/G. Schafferer/<span class="ich">M. Hinz</span>, Common motivation, different intentions? A multiscalar approach to the megalithic architecture of the Funnel Beaker North Group. In: L. Laporte/C. Scarre (Hrsg.), The Megalithic Architectures of Europe (Oxford 2016) 145–154. [https://doi.org/10.5281/zenodo.1186098](https://doi.org/10.5281/zenodo.1186098)
-  - <span class="ich">M. Hinz</span>/W. Kirleis, Stability in a changing world: insights from settlement intensity patterns and archaeobotany. In: L. Laporte/C. Scarre (Hrsg.), The Megalithic Architectures of Europe (Oxford 2016) 507–215. [https://doi.org/10.5281/zenodo.1186102](https://doi.org/10.5281/zenodo.1186102)
 
 ## published software
 ### R packages
@@ -314,5 +336,5 @@ Since 2007
 
 <!-- ### Footer
 
-Last updated: December 2020 -->
+Last updated: January 2022 -->
 </div>
