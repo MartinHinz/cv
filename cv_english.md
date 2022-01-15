@@ -206,15 +206,15 @@ Since 2007
 
 ## publications (last five years)
 &nbsp;
-: *Published works from publication organs with scientific quality assurance (peer review) are highlighted*
+: *highlighted: publication with scientific quality assurance (peer review)*
 
 2021
 : - Taylor, W. T. T., Dixon, E. J., Hafner, A., & <span class="ich">Hinz, M.</span> (2021). New Directions in a Warming World. Journal of Glacial Archaeology, 5, 1–3. https://doi.org/10.1558/jga.20547
-  - Affolter, J., Emmenegger, L., Hafner, A., Heitz, C., <span class="ich">Hinz, M.</span>, Stapfer, R., & Wehren, H. (2021). From flint provenance to mobility studies: New raw material determinations from Late Neolithic wetland sites at Lake Biel and Lake Constance. Quaternary International. https://doi.org/10.1016/j.quaint.2021.05.027
-  - Weinelt, M., Kneisel, J., Schirrmacher, J., <span class="ich">Hinz</span>, M., & Ribeiro, A. (2021). Potential responses and resilience of Late Chalcolithic and Early Bronze Age societies to mid-to Late Holocene climate change on the southern Iberian Peninsula. Environmental Research Letters, 16(5), 055007. https://doi.org/10.1088/1748-9326/abd8a8
-  - Heitz, C., Laabs, J., <span class="ich">Hinz, M.</span>, & Hafner, A. (2021). Collapse and Resilience in Prehistoric Archaeology: Questioning Concepts and Causalities in Models of Climate-Induced Societal Transformations (pp. 127–199). Springer International Publishing. https://doi.org/10.1007/978-3-030-81103-7_5
+  - *Affolter, J., Emmenegger, L., Hafner, A., Heitz, C., <span class="ich">Hinz, M.</span>, Stapfer, R., & Wehren, H. (2021). From flint provenance to mobility studies: New raw material determinations from Late Neolithic wetland sites at Lake Biel and Lake Constance. Quaternary International. https://doi.org/10.1016/j.quaint.2021.05.027*
+  - *Weinelt, M., Kneisel, J., Schirrmacher, J., <span class="ich">Hinz</span>, M., & Ribeiro, A. (2021). Potential responses and resilience of Late Chalcolithic and Early Bronze Age societies to mid-to Late Holocene climate change on the southern Iberian Peninsula. Environmental Research Letters, 16(5), 055007. https://doi.org/10.1088/1748-9326/abd8a8*
+  - *Heitz, C., Laabs, J., <span class="ich">Hinz, M.</span>, & Hafner, A. (2021). Collapse and Resilience in Prehistoric Archaeology: Questioning Concepts and Causalities in Models of Climate-Induced Societal Transformations (pp. 127–199). Springer International Publishing. https://doi.org/10.1007/978-3-030-81103-7_5*
   - <span class="ich">Hinz, M.</span> (2021). Megaliths, causewayed enclosures and social space in North Central Europe. In V. Ard, E. Mens, & M. Gandelin (Eds.), Mégalithismes et monumentalismes funéraires : passé, présent, futur (pp. 277–318). Sidestone Press.
-  - Heitz, C., <span class="ich">Hinz, M.</span>, Laabs, J., & Hafner, A. (2021). Mobility as resilience capacity in northern Alpine Neolithic settlement communities. Archaeological Review from Cambridge, 36(1), 75–106. https://doi.org/10.17863/CAM.79042
+  - *Heitz, C., <span class="ich">Hinz, M.</span>, Laabs, J., & Hafner, A. (2021). Mobility as resilience capacity in northern Alpine Neolithic settlement communities. Archaeological Review from Cambridge, 36(1), 75–106. https://doi.org/10.17863/CAM.79042*
 
 2020
 : - *Schirrmacher, J., Kneisel, J., Knitter, D., Hamer, W., <span class="ich">Hinz, M</span>, Schneider, R.R, Weinelt, M. (2020). Spatial patterns of temperature, precipitation, and settlement dynamics on the Iberian Peninsula during the Chalcolithic and the Bronze Age. Quaternary Science Reviews, 233, 2020, 1–17. https://doi.org/10.1016/j.quascirev.2020.106220*
