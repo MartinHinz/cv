@@ -272,6 +272,15 @@ Since 2007
 - ISAAK Github Repository
   - [https://github.com/ISAAKiel](https://github.com/ISAAKiel)
 
+### online teaching material
+&nbsp;
+: - Tutorial Videos
+  - [http://vitutr.archaeological.science](http://vitutr.archaeological.science)
+- Course Material for Computer Aided Archaeology
+  - [https://berncodalab.github.io](https://berncodalab.github.io/)
+- Youtube Channel
+  - [https://www.youtube.com/channel/UC7yGYHD_Sj1UtgVETz5IKNw](https://www.youtube.com/channel/UC7yGYHD_Sj1UtgVETz5IKNw)
+
 <div class="pagebreak"> </div>
 
 ## competences
