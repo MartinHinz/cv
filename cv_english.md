@@ -130,8 +130,7 @@ Since 2020
   - Spring: **Proseminar** *Methoden in der Prähistorischen Archäologie*, **Übung** *Relative Chronologie II - Das Neolithikum in der Schweiz*, **Übung** *Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie*, **Übung** *Archäologische Vermessungskunde und Geophysikalische Prospektionsmethoden*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie*
   
 2019
-: - Fall: **Übung** *Von der Datenauswertung zur Publikation. Open Science und Reproducible Research in der Praxis*, **Übung** *Computational Archaeology*, **Übung** *Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz*
-  - Summer: **Summer School** Wetland Excavations in Serteya/Russia
+: - Fall: **Übung** *Von der Datenauswertung zur Publikation. Open Science und Reproducible Research in der Praxis*, **Übung** *Computational Archaeology*, **Übung** *Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz*, **Summer School** Wetland Excavations in Serteya/Russia
   - Spring: **Übung** *Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie*, **Übung** *Statistical methods for archaeological data analysis I: Basic methods*, **Übung** *Relative Chronologie II - Das Neolithikum in der Schweiz*
 
 2018
