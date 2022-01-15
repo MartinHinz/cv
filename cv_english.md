@@ -204,10 +204,7 @@ Since 2007
 
 <div class="pagebreak"> </div>
 
-## publications (last five years)
-&nbsp;
-: *highlighted: publication with scientific quality assurance (peer review)*
-
+## publications (last five years, peer reviewed publications *italic*)
 2021
 : - Taylor, W. T. T., Dixon, E. J., Hafner, A., & <span class="ich">Hinz, M.</span> (2021). New Directions in a Warming World. Journal of Glacial Archaeology, 5, 1–3. https://doi.org/10.1558/jga.20547
   - *Affolter, J., Emmenegger, L., Hafner, A., Heitz, C., <span class="ich">Hinz, M.</span>, Stapfer, R., & Wehren, H. (2021). From flint provenance to mobility studies: New raw material determinations from Late Neolithic wetland sites at Lake Biel and Lake Constance. Quaternary International. https://doi.org/10.1016/j.quaint.2021.05.027*
