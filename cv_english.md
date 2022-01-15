@@ -130,7 +130,7 @@ Since 2020
   - Spring: **Proseminar** *Methoden in der Prähistorischen Archäologie*, **Übung** *Relative Chronologie II - Das Neolithikum in der Schweiz*, **Übung** *Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie*, **Übung** *Archäologische Vermessungskunde und Geophysikalische Prospektionsmethoden*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie*
   
 2019
-: - Fall: **Übung** *Von der Datenauswertung zur Publikation. Open Science und Reproducible Research in der Praxis*, **Übung** *Computational Archaeology*, **Übung** *Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz*, **Summer School** Wetland Excavations in Serteya/Russia
+: - Fall: **Übung** *Von der Datenauswertung zur Publikation. Open Science und Reproducible Research in der Praxis*, **Übung** *Computational Archaeology*, **Übung** *Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz*, **Summer School** *Wetland Excavations in Serteya/Russia*
   - Spring: **Übung** *Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie*, **Übung** *Statistical methods for archaeological data analysis I: Basic methods*, **Übung** *Relative Chronologie II - Das Neolithikum in der Schweiz*
 
 2018
@@ -138,7 +138,7 @@ Since 2020
   - Spring: **Übung** *Johanna-Mestorf Academy R-Courses*
 
 2017
-: - Spring: Übung Lesenswert – Leittexte der Ur- und Frühgeschichte
+: - Spring: **Übung** *Lesenswert – Leittexte der Ur- und Frühgeschichte*
 
 ### supervision (last five years)
 
@@ -156,17 +156,17 @@ Since 2020
 
 ### editorial board memberships
 Since 2021
-:  - Member of the Editorial Board of the Journal ‘The Neolithic of Central and Eastern Europe’ (NCEE)
+:  - Journal ‘The Neolithic of Central and Eastern Europe’ (NCEE), **Editorial Board**
 
 Since 2020
-:  - Member of the Editorial Board of the Journal of Computer Applications in Archaeology ([https://journal.caa-international.org](https://journal.caa-international.org))
-   - Editor of the 'Open Series in Prehistoric Archaeology' ([https://books.ub.uni-heidelberg.de/propylaeum/series/info/ospa](https://books.ub.uni-heidelberg.de/propylaeum/series/info/ospa)) 
+:  - Journal of Computer Applications in Archaeology ([https://journal.caa-international.org](https://journal.caa-international.org)), **Editorial Board**
+   - 'Open Series in Prehistoric Archaeology' ([https://books.ub.uni-heidelberg.de/propylaeum/series/info/ospa](https://books.ub.uni-heidelberg.de/propylaeum/series/info/ospa)), **Editor**
 
 Since 2019
-:  - Editor of the Journal of Glacial Archaeology ([https://journal.equinoxpub.com/JGA](https://journal.equinoxpub.com/JGA))
+:  - Journal of Glacial Archaeology ([https://journal.equinoxpub.com/JGA](https://journal.equinoxpub.com/JGA)), **Editor**
 
 Since 2013
-:  - Editor of the Journal of Neolithic Archaeology ([http://www.j-n-a.org](http://www.j-n-a.org))
+:  - Journal of Neolithic Archaeology ([http://www.j-n-a.org](http://www.j-n-a.org)), **Editor**
 
 ### activity in scientific associations
 Since 2020
@@ -174,10 +174,10 @@ Since 2020
   - Founding member and Convener of the 'CAA SIG Scientific Scripting Languages in Archaeology' ([https://sslarch.github.io](https://sslarch.github.io))
 
 Since 2019
-: - founding member of the 'Swiss TAG' ([https://swisstag.hcommons.org/](https://swisstag.hcommons.org/))
+: - Founding member of the 'Swiss TAG' ([https://swisstag.hcommons.org/](https://swisstag.hcommons.org/))
 
 Since 2016
-: - founding member of the 'Initiative for Statistical Analysis in Archaeology Kiel (ISAAK)' ([https://isaakiel.github.io/](https://isaakiel.github.io/))
+: - Founding member of the 'Initiative for Statistical Analysis in Archaeology Kiel (ISAAK)' ([https://isaakiel.github.io/](https://isaakiel.github.io/))
 
 Since 2007
 : - Member of the board of the 'Arbeitsgemeinschaft Theorien in der Archäologie e.V. (AG TidA)' (German TAG), ([http://www.agtida.de/](http://www.agtida.de/))
