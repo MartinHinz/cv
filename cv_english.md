@@ -161,8 +161,7 @@ Since 2021
 :  - Journal ‘The Neolithic of Central and Eastern Europe’ (NCEE), **Editorial Board**
 
 Since 2020
-:  - Journal of Computer Applications in Archaeology ([https://journal.caa-international.org](https://journal.caa-international.org)), **Editorial Board**
-   - 'Open Series in Prehistoric Archaeology' ([https://books.ub.uni-heidelberg.de/propylaeum/series/info/ospa](https://books.ub.uni-heidelberg.de/propylaeum/series/info/ospa)), **Editor**
+:  - Journal of Computer Applications in Archaeology ([https://journal.caa-international.org](https://journal.caa-international.org)), **Editorial Board** & 'Open Series in Prehistoric Archaeology' ([https://books.ub.uni-heidelberg.de/propylaeum/series/info/ospa](https://books.ub.uni-heidelberg.de/propylaeum/series/info/ospa)), **Editor**
 
 Since 2019
 :  - Journal of Glacial Archaeology ([https://journal.equinoxpub.com/JGA](https://journal.equinoxpub.com/JGA)), **Editor**
@@ -172,8 +171,7 @@ Since 2013
 
 ### activity in scientific associations
 Since 2020
-: - Founding member and Secretary of the 'CAA National Chapter Switzerland' ([https://caa-switzerland.ch](https://caa-switzerland.ch))
-  - Founding member and Convener of the 'CAA SIG Scientific Scripting Languages in Archaeology' ([https://sslarch.github.io](https://sslarch.github.io))
+: - Founding member and Secretary of the 'CAA National Chapter Switzerland' ([https://caa-switzerland.ch](https://caa-switzerland.ch)) & Founding member and Convener of the 'CAA SIG Scientific Scripting Languages in Archaeology' ([https://sslarch.github.io](https://sslarch.github.io))
 
 Since 2019
 : - Founding member of the 'Swiss TAG' ([https://swisstag.hcommons.org/](https://swisstag.hcommons.org/))
