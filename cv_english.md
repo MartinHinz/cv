@@ -120,10 +120,12 @@ Since 2020
 
 ### teaching (last five years)
 
+2022
+: - Spring: **Proseminar** *Methoden in der Prähistorischen Archäologie*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie*, **Übung** *Keramikherstellung in der Praxis*
+
 2021
 : - Fall: Swiss International **Summer School** for Alpine Archaeology, **Übung** *Materialanalysen mit portabler Röntgenfluoreszenz (pXRF)*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie*, **Übung** *Computer Aided Archaeology*, **Übung** *Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz*
   - Spring: **Seminar** *Das Drei-Seen-Land der Westschweiz: ein archäologischer Kulturraum von herausragender Bedeutung*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie*, **Übung** *Statistical methods for archaeological data analysis: Basic methods*, **Übung** *Relative Chronologie II - Das Neolithikum in der Schweiz*, **Proseminar** *Methoden in der Prähistorischen Archäologie*
-
 
 2020
 : - Fall: **Übung** *Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz*, **Übung** *GIS in Archaeology*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie*
@@ -137,10 +139,10 @@ Since 2020
 : - Fall: **Übung** *Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz*
   - Spring: **Übung** *Johanna-Mestorf Academy R-Courses*
 
-2017
-: - Spring: **Übung** *Lesenswert – Leittexte der Ur- und Frühgeschichte*
-
 ### supervision (last five years)
+
+2022
+:   - Anna Khoury, BA, *Analyse Neolithischer Keramik aus den Fundstellen Auvernier Les Graviers und Ruz Chatru (Working Title)*
 
 2019
 :   - Jan-Erik Schlicht, MA, *Emergenz sozialer Räume: Diachrone Untersuchungen von Rohmaterialverteilungsmustern im Spätneolithikum und in der Kupferzeit in Süd- und Zentralportugal*
@@ -205,6 +207,9 @@ Since 2007
 <div class="pagebreak"> </div>
 
 ## publications (last five years, peer reviewed publications *italic*)
+2022
+: - *Deza-Araujo, M., Morales-Molino, C., Conedera, M., Henne, P.D., Krebs, P., <span class="ich">Hinz, M.</span>, Heitz, C., Hafner, A., Tinner, W. (2022). A new indicator approach to reconstruct agricultural land use in Europe from sedimentary pollen assemblages. Palaeogeography, Palaeoclimatology, Palaeoecology, 599, 111051. https://doi.org/10.1016/j.palaeo.2022.111051.*
+
 2021
 : - Taylor, W. T. T., Dixon, E. J., Hafner, A., & <span class="ich">Hinz, M.</span> (2021). New Directions in a Warming World. Journal of Glacial Archaeology, 5, 1–3. https://doi.org/10.1558/jga.20547
   - *Affolter, J., Emmenegger, L., Hafner, A., Heitz, C., <span class="ich">Hinz, M.</span>, Stapfer, R., & Wehren, H. (2021). From flint provenance to mobility studies: New raw material determinations from Late Neolithic wetland sites at Lake Biel and Lake Constance. Quaternary International. https://doi.org/10.1016/j.quaint.2021.05.027*
@@ -234,10 +239,6 @@ Since 2007
 : - <span class="ich">M. Hinz</span>, From Hunting to Herding? Aspects of the Social and Animal Landscape during the Southern Scandinavian Neolithic. In: A. Haug/L. Käppel/J. Müller, Past Landscapes. The Dynamics of Interaction between Society, Landscape, and Culture (Sidestone Press, Leiden 2018). [https://doi.org/10.5281/zenodo.2538016](https://doi.org/10.5281/zenodo.2538016)
   - M. Furholt/<span class="ich">M. Hinz</span>/D. Mischka, Putting Things into Practice: Exploring the Consequences of Pragmatic Theory for Archaeology. In: A. Haug/L. Käppel/J. Müller, Past Landscapes. The Dynamics of Interaction between Society, Landscape, and Culture (Sidestone Press, Leiden 2018). [https://doi.org/10.5281/zenodo.2538019](https://doi.org/10.5281/zenodo.2538019)
   - Stapfer, R. B., Heitz, C., <span class="ich">Hinz, M.</span>, & Hafner, A. (2018). Portable Röntgenfluoreszenzanalytik (pXRF): Mit dem "Labor in der Hand" der Vergangenheit auf der Spur. In T. Burri & R. B. Stapfer (Eds.), Naturwissenschaftliche Methoden in der Archäologie (Vol. 75, pp. 136–155). Bern: Naturforschende Gesellschaft Bern. [https://doi.org/10.7892/boris.126318](https://doi.org/10.7892/boris.126318)
-
-2017
-: - *V. Rohde Krossa/M. Moros/G. Leduc/<span class="ich">M. Hinz</span>/T. Blanz/R. Schneider, Regional climate change and the onset of farming in northern Germany and southern Scandinavia. The Holocene 27(10), 1589–1599. [https://doi.org/10.1177/0959683617702223](https://doi.org/10.1177/0959683617702223)*
-  - *S. Dreibrodt/M. Furholt/R. Hofmann/<span class="ich">M. Hinz</span>/I. Cheben, P-ed-XRF-geochemical signatures of a 7300 year old Linear Band Pottery house ditch fill at Vráble-Ve'lké Lehemby, Slovakia - House inhabitation and post-depositional processes. Quaternary International 438, Part B, 131-143. [https://doi.org/10.1016/j.quaint.2017.03.054](https://doi.org/10.1016/j.quaint.2017.03.054)*
 
 ## published software
 ### R packages
