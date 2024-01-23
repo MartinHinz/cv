@@ -97,7 +97,7 @@ Since 2020
 : - XRONOS – Open Access Database for absolute chronological archaeological information (SNF IZCOZ0_198153)
 
 Since 2020
-: - Disclose the Archaeology of Wetland Neolithic (DAWN, Seed Funding Grant with countries of CIS Region 2020)
+: - Disclose the Archaeology of Wetland Neolithic (DAWN, CIS Seed Funding Grant 2020)
 
 ### fellowships and grants
 
