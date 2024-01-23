@@ -97,13 +97,13 @@ Since 2020
 : - XRONOS – Open Access Database for absolute chronological archaeological information (SNF IZCOZ0_198153)
 
 Since 2020
-: - Disclose the Archaeology of Wetland Neolithic (DAWN) - Expanding scientific exchange between Belarusian and Swiss Wetland Archaeology on the beginning of the Corded Ware Culture (Seed Funding Grant with countries of CIS Region 2020)
+: - Disclose the Archaeology of Wetland Neolithic (DAWN, Seed Funding Grant with countries of CIS Region 2020)
 
 ### fellowships and grants
 
 2023
 : - Bern University Research Foundation Grant, CHF 10’492, Project ‘EXPLO Total Station’
-  - Scientific Exchanges Grant, SNSF, CHF 9’100, Project Digital Archaeology Bern: Advancing Open Research into the next decade
+  - Scientific Exchanges Grant, SNSF, CHF 9’100, Project 'Digital Archaeology Bern 2023'
 
 2021
 : - Bern University Research Foundation Grant, CHF 4'600, Project 'DAWN'
@@ -114,7 +114,7 @@ Since 2020
   - Project Grant, funded by the Fund for the Promotion of Young Researchers, University of Bern, CHF 1'950, Project SISA 2020
 
 2019
-: - Scientific Exchanges Grant, funded by the Swiss National Science Foundation (SNSF), CHF 9'100, Project Digital Archaeology: Quantitative approaches, spatial statistics and socioecological modelling workshop
+: - Scientific Exchanges Grant, funded by the Swiss National Science Foundation (SNSF), CHF 9'100, Project 'Digital Archaeology Bern 2019'
   - Teach inspired! Grant, funded by the Collegium Decanale, University of Bern, CHF 2'100, Project 'Theorien in der Archäologie bewegt' Workshop
 
 2008–2011
