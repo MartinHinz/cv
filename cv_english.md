@@ -72,10 +72,10 @@ CH-3012 Bern
 ### university education
 
 2008–2011
-: - PhD Scholarship, Graduate School 'Human Development in Landscapes', CAU Kiel, Germany. Degree: Dr. phil., June 21, 2011. Thesis 'Neolithische Siedlungsstrukturen im südöstlichen Schleswig-Holstein. Dynamik in Landschaft und Besiedlung'. Supervisor Prof. Dr. Johannes Müller, Prof. Dr. Rainer Duttmann. With distinction 'magna cum laude' (0,8)
+: - PhD Scholarship, Graduate School 'Human Development in Landscapes', CAU Kiel, Germany. Degree: Dr. phil., June 21, 2011. Thesis 'Neolithische Siedlungsstrukturen im südöstlichen Schleswig-Holstein'. Supervisor Prof. Dr. J. Müller, Prof. Dr. R. Duttmann. Distinction 'magna cum laude' (0,8)
 
 1998–2008
-: - Studies in Pre- and Early History, Classical Archaeology, Medieval and Modern History, Computer Science and European Ethnology, FU Berlin and CAU Kiel. Degree: M.A., February 6, 2008. Thesis 'Eine multivariate Analyse Aunjetitzer Fundkomplexe'. Supervisor Prof. Dr. Johannes Müller, Prof. Dr. Ulrich Müller. With distinction 'Very good' (1.0)
+: - Studies in Pre- and Early History, Classical Archaeology, Medieval and Modern History, Computer Science and European Ethnology, FU Berlin and CAU Kiel. Degree: M.A., February 6, 2008. Thesis 'Eine multivariate Analyse Aunjetitzer Fundkomplexe'. Supervisor Prof. Dr. J. Müller, Prof. Dr. U. Müller. Distinction 'Very good' (1.0)
 
 ## relevant work experience
 ### employments
