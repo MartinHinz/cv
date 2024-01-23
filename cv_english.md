@@ -101,8 +101,12 @@ Since 2020
 
 ### fellowships and grants
 
+2023
+: - Bern University Research Foundation Grant, CHF 10’492, Project ‘EXPLO Total Station’
+  - Scientific Exchanges Grant, SNSF, CHF 9’100, Project Digital Archaeology Bern: Advancing Open Research into the next decade
+
 2021
-: - Berne University Research Foundation Grant, CHF 4'600, Project 'DAWN'
+: - Bern University Research Foundation Grant, CHF 4'600, Project 'DAWN'
   - SNF COST Grant, funded by the Swiss National Science Foundation (SNSF), CHF 319'930, Project 'XRONOS'
 
 2020
@@ -120,8 +124,13 @@ Since 2020
 
 ### teaching (last five years)
 
+2023
+: - Fall: **Proseminar** *Einführung in die Prähistorische Archäologie*, **Übung** *Computer Assisted Archaeology*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie*, **Seminar** *Anpassungsstrategien gegenüber Klimavariationen und extremen Naturereignissen* 
+  - Spring: **Proseminar** *Methoden in der Prähistorischen Archäologie*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie**, **Seminar** *Prähistorisches Irland*
+
 2022
-: - Spring: **Proseminar** *Methoden in der Prähistorischen Archäologie*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie*, **Übung** *Keramikherstellung in der Praxis*
+: - Fall: **Proseminar** *Einführung in die Prähistorische Archäologie*, **Übung** *Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie*, **Seminar** *Der Widerspenstigen Zähmung - Der lange Weg zur agrarischen Wirtschaftsweise*
+  - Spring: **Proseminar** *Methoden in der Prähistorischen Archäologie*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie*, **Übung** *Keramikherstellung in der Praxis*
 
 2021
 : - Fall: Swiss International **Summer School** for Alpine Archaeology, **Übung** *Materialanalysen mit portabler Röntgenfluoreszenz (pXRF)*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie*, **Übung** *Computer Aided Archaeology*, **Übung** *Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz*
@@ -135,26 +144,22 @@ Since 2020
 : - Fall: **Übung** *Von der Datenauswertung zur Publikation. Open Science und Reproducible Research in der Praxis*, **Übung** *Computational Archaeology*, **Übung** *Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz*, **Summer School** *Wetland Excavations in Serteya/Russia*
   - Spring: **Übung** *Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie*, **Übung** *Statistical methods for archaeological data analysis I: Basic methods*, **Übung** *Relative Chronologie II - Das Neolithikum in der Schweiz*
 
-2018
-: - Fall: **Übung** *Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz*
-  - Spring: **Übung** *Johanna-Mestorf Academy R-Courses*
-
 ### supervision (last five years)
 
+2023
+:   - Manuel Fuhrer, BA, *Korngrössenanalyse und Magerungseffekt bei pXRF-Analysen experimentell hergestellter Keramik*
+    - Yuli Maisak, BA, *Schnurkeramikkulturen in Nordbelarus und Nordwestrussland*
+
 2022
-:   - Anna Khoury, BA, *Analyse Neolithischer Keramik aus den Fundstellen Auvernier Les Graviers und Ruz Chatru (Working Title)*
+:   - Anna Khoury, BA, *Das neolithische Material von Auvernier-Les Graviers*
+    - Corina Gottardi, PhD, *Mobilität, Entwicklungen und Verflechtungen am Ende des 4. Jahrtausends v. Chr (Working Title)*
+    - Michael Wagner, BA, *Unterlunkhofen – Pitten Manifestierte soziale Differenzierung im Grabbau*
+
+2020
+:   - Hallvard Bruvoll, PhD, *Fractal Analysis as Method for studying Social Hierarchy in Prehistoric Settlement Plans*
 
 2019
 :   - Jan-Erik Schlicht, MA, *Emergenz sozialer Räume: Diachrone Untersuchungen von Rohmaterialverteilungsmustern im Spätneolithikum und in der Kupferzeit in Süd- und Zentralportugal*
-
-2018
-: - Merle Oelbüttel, BA, *Kupfer- und Bronzezeitliche Landschaftsentwicklung auf der südlichen iberischen Halbinsel anhand von Pollendaten*
-  - Clemens Schmid, MA, *Ein computerbasiertes Cultural Evolution Modell zur Ausbreitungsdynamik europäisch-bronzezeitlicher Bestattungssitten*
-
-2017
-:  - Benjamin Drogat, BA, *Spuren ritueller Handlungen beim Bau trichterbecherzeitlicher Megalithgräber am Beispiel Wangels LA 69*
-   - Bastian Wolthoff, BA, *Eine multivariate Statistik zur Untersuchung der Keramikverzierung in der frühneolithischen Siedlung von Vráble, SW-Slowakei*
-   - Moiken Elisabeth Hinrichs, BA, *Eine struktur-räumliche Analyse der Einzelgrabkultur in südwest Jütland*
 
 ### editorial board memberships
 Since 2021
@@ -183,6 +188,9 @@ Since 2007
 : - Member of the board of the 'Arbeitsgemeinschaft Theorien in der Archäologie e.V. (AG TidA)' (German TAG), ([http://www.agtida.de/](http://www.agtida.de/))
 
 ### conference organization
+1.-3.02.2023
+: - [DAB2023 'Advancing open research into the next decade'](https://www.oeschger.unibe.ch/services/events/conferences/past_conferences/2nd_digital_archaeology/announcement/index_eng.html)
+
 19.-20.01.2021
 : - [International Workshop 'Theorizing Resilience & Vulnerability in Ancient Studies'](http://resilience2021.archaeological.science)
 
@@ -205,8 +213,17 @@ Since 2007
 <div class="pagebreak"> </div>
 
 ## publications (last five years, peer reviewed publications *italic*)
+2023
+: - *Albouy, B., Paquin, S., <span class="ich">Hinz, M.</span>, Wren, C. D., & Burke, A. (2023). The Last of Them: Investigating the Palaeogeography of the Last Neanderthals in Europe (Marine Isotopic Stage 3). In Themes in Contemporary Archaeology (pp. 27–45). Springer International Publishing. https://doi.org/10.1007/978-3-031-34336-0_2*
+  - *Paquin, S., Albouy, B., <span class="ich">Hinz, M.</span>, & Burke, A. (2023). Going New Places: Dispersal and Establishment of the Aurignacian Technocomplex in Europe During the Marine Isotopic Stage 3 (MIS 3). In Themes in Contemporary Archaeology (pp. 47–59). Springer International Publishing. https://doi.org/10.1007/978-3-031-34336-0_3*
+  - *Affolter, J., Wehren, H., Heitz, C., Stapfer, R., Emmenegger, L., <span class="ich">Hinz, M.</span>, Thierrin-Michael, G., & Hafner, A. (2023). Linking Neolithic lakeshore settlements through raw material of siliceous artefacts. Journal of Lithic Studies, 10(1), 33 p. https://doi.org/10.2218/jls.4446*
+  - Brunner, M., Rutishauser, S., <span class="ich">Hinz, M.</span>, Hübner, C., Laabs, J., & Medaric, I. (2023). Geophysikalische Untersuchungen der prähistorischen Grabhügel Abschlag/Mörderhübeli in Neuenegg. Jahrbuch Des Archäologischen Dienstes Des Kantons Bern, 2023, 174–182. https://doi.org/10.48350/186321
+  - Dixon, E. J., Taylor, W., <span class="ich">Hinz, M.</span>, & Hafner, A. (2023). Glacial Archaeology Goes Viral. Journal of Glacial Archaeology, 6, 1–2. https://doi.org/10.1558/jga.25722
+
 2022
 : - *Deza-Araujo, M., Morales-Molino, C., Conedera, M., Henne, P.D., Krebs, P., <span class="ich">Hinz, M.</span>, Heitz, C., Hafner, A., Tinner, W. (2022). A new indicator approach to reconstruct agricultural land use in Europe from sedimentary pollen assemblages. Palaeogeography, Palaeoclimatology, Palaeoecology, 599, 111051. https://doi.org/10.1016/j.palaeo.2022.111051.*
+  - *<span class="ich">Hinz, M.</span>, & Heitz, C. (2022). Unsupervised Classification of Neolithic Pottery From the Northern Alpine Space Using t-SNE and HDBSCAN. Open Archaeology, 8(1), 1183–1217. https://doi.org/10.1515/opar-2022-0274*
+  - *Affolter, J., Emmenegger, L., Hafner, A., Heitz, C., <span class="ich">Hinz, M.</span>, Stapfer, R., & Wehren, H. (2022). From flint provenance to mobility studies: New raw material determinations from Late Neolithic wetland sites at Lake Biel and Lake Constance. Quaternary International. https://doi.org/10.1016/j.quaint.2021.05.027*
 
 2021
 : - Taylor, W. T. T., Dixon, E. J., Hafner, A., & <span class="ich">Hinz, M.</span> (2021). New Directions in a Warming World. Journal of Glacial Archaeology, 5, 1–3. https://doi.org/10.1558/jga.20547
@@ -232,11 +249,6 @@ Since 2007
   - *Feeser, I., Dörfler, W., Kneisel, J., <span class="ich">Hinz, M.</span>, & Dreibrodt, S. (2019). Human impact and population dynamics in the Neolithic and Bronze Age: Multi-proxy evidence from north-western Central Europe. The Holocene. [https://doi.org/10.1177/0959683619857223](https://doi.org/10.1177/0959683619857223)*
 - *Arponen, V. P. J., Dörfler, W., Feeser, I., Grimm, S., Groß, D., <span class="ich">Hinz, M.</span>, Knitter, D., Müller-Scheeßel, N., Ott, K., & Ribeiro, A. (2019). Environmental determinism and archaeology. Understanding and evaluating determinism in research design. Archaeological Dialogues, 26(01), 1–9. [https://doi.org/10.1017/S1380203819000059](https://doi.org/10.1017/S1380203819000059)*
   - *<span class="ich">Hinz, M.</span>, Schirrmacher, J., Kneisel, J., Rinne, C., & Weinelt, M. (2019). The Chalcolithic–Bronze Age transition in southern Iberia under the influence of the 4.2 kyr event? A correlation of climatological and demographic proxies. Journal of Neolithic Archaeology, 21, 1–26. [https://doi.org/10.12766/jna.2019.1](https://doi.org/10.12766/jna.2019.1)*
-
-2018
-: - <span class="ich">M. Hinz</span>, From Hunting to Herding? Aspects of the Social and Animal Landscape during the Southern Scandinavian Neolithic. In: A. Haug/L. Käppel/J. Müller, Past Landscapes. The Dynamics of Interaction between Society, Landscape, and Culture (Sidestone Press, Leiden 2018). [https://doi.org/10.5281/zenodo.2538016](https://doi.org/10.5281/zenodo.2538016)
-  - M. Furholt/<span class="ich">M. Hinz</span>/D. Mischka, Putting Things into Practice: Exploring the Consequences of Pragmatic Theory for Archaeology. In: A. Haug/L. Käppel/J. Müller, Past Landscapes. The Dynamics of Interaction between Society, Landscape, and Culture (Sidestone Press, Leiden 2018). [https://doi.org/10.5281/zenodo.2538019](https://doi.org/10.5281/zenodo.2538019)
-  - Stapfer, R. B., Heitz, C., <span class="ich">Hinz, M.</span>, & Hafner, A. (2018). Portable Röntgenfluoreszenzanalytik (pXRF): Mit dem "Labor in der Hand" der Vergangenheit auf der Spur. In T. Burri & R. B. Stapfer (Eds.), Naturwissenschaftliche Methoden in der Archäologie (Vol. 75, pp. 136–155). Bern: Naturforschende Gesellschaft Bern. [https://doi.org/10.7892/boris.126318](https://doi.org/10.7892/boris.126318)
 
 ## published software
 ### R packages
@@ -325,5 +337,5 @@ Since 2007
 
 <!-- ### Footer
 
-Last updated: January 2022 -->
+Last updated: January 2023 -->
 </div>
