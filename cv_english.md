@@ -83,7 +83,7 @@ CH-3012 Bern
 since 09/2018
 : - Senior Researcher (Oberassistent), Prehistoric department of the Institute for Archaeological Sciences, University Bern
 
-08/2016-08/2018
+08/2016–08/2018
 : - Post-Doctoral Fellow in Project F1 of the SFB 1266 Transformation Dimensions', CAU Kiel
 
 02/2015–07/2016
