@@ -125,24 +125,24 @@ Since 2020
 ### teaching (last five years)
 
 2023
-: - Fall: **Proseminar** *Einführung in die Prähistorische Archäologie*, **Übung** *Computer Assisted Archaeology*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie*, **Seminar** *Anpassungsstrategien gegenüber Klimavariationen und extremen Naturereignissen* 
-  - Spring: **Proseminar** *Methoden in der Prähistorischen Archäologie*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie**, **Seminar** *Prähistorisches Irland*
+: - Fall: 1 Proseminar, 1 Übung, 1 Kolloquium, 1 Seminar
+  - Spring: Swiss International **Summer School** for Alpine Archaeology, 1 Proseminar, 1 Kolloquium, 1 Seminar
 
 2022
-: - Fall: **Proseminar** *Einführung in die Prähistorische Archäologie*, **Übung** *Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie*, **Seminar** *Der Widerspenstigen Zähmung - Der lange Weg zur agrarischen Wirtschaftsweise*
-  - Spring: **Proseminar** *Methoden in der Prähistorischen Archäologie*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie*, **Übung** *Keramikherstellung in der Praxis*
+: - Fall: 1 Proseminar, 1 Übung, 1 Kolloquium, 1 Seminar
+  - Spring: 1 Proseminar, 1 Kolloquium, 1 Übung
 
 2021
-: - Fall: Swiss International **Summer School** for Alpine Archaeology, **Übung** *Materialanalysen mit portabler Röntgenfluoreszenz (pXRF)*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie*, **Übung** *Computer Aided Archaeology*, **Übung** *Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz*
-  - Spring: **Seminar** *Das Drei-Seen-Land der Westschweiz: ein archäologischer Kulturraum von herausragender Bedeutung*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie*, **Übung** *Statistical methods for archaeological data analysis: Basic methods*, **Übung** *Relative Chronologie II - Das Neolithikum in der Schweiz*, **Proseminar** *Methoden in der Prähistorischen Archäologie*
+: - Fall: Swiss International **Summer School** for Alpine Archaeology, 1 Übung, 1 Kolloquium, 2 Übungen
+  - Spring: 1 Seminar, 1 Kolloquium, 2 Übungen, 1 Proseminar
 
 2020
-: - Fall: **Übung** *Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz*, **Übung** *GIS in Archaeology*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie*
-  - Spring: **Proseminar** *Methoden in der Prähistorischen Archäologie*, **Übung** *Relative Chronologie II - Das Neolithikum in der Schweiz*, **Übung** *Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie*, **Übung** *Archäologische Vermessungskunde und Geophysikalische Prospektionsmethoden*, **Kolloquium** *Forschungskolloquium zur Prähistorischen Archäologie*
+: - Fall: 2 Übungen, 1 Kolloquium
+  - Spring: 1 Proseminar, 3 Übungen, , 1 Kolloquium
   
 2019
-: - Fall: **Übung** *Von der Datenauswertung zur Publikation. Open Science und Reproducible Research in der Praxis*, **Übung** *Computational Archaeology*, **Übung** *Relative Chronologie I - Die Bronze- und Eisenzeit in der Schweiz*, **Summer School** *Wetland Excavations in Serteya/Russia*
-  - Spring: **Übung** *Paradigmenwechsel. Theoretische Grundlagen der Prähistorischen Archäologie*, **Übung** *Statistical methods for archaeological data analysis I: Basic methods*, **Übung** *Relative Chronologie II - Das Neolithikum in der Schweiz*
+: - Fall: 3 Übungen, **Summer School** *Wetland Excavations in Serteya/Russia*
+  - Spring: 3 Übungen
 
 ### supervision (last five years)
 
