@@ -260,37 +260,26 @@ Since 2016
 ## online resources
 ### data bases
 &nbsp;
-: - XRONOS - Open Access Database for absolute chronological archaeological information
-  - [https://xronos.ch](https://xronos.ch)
-- RADON - Radiocarbon dates online (Central European and Scandinavian database of 14C dates for the Neolithic and Early Bronze Age.)
-  - [http://radon.ufg.uni-kiel.de](http://radon.ufg.uni-kiel.de)
-- RADON-B - Radiocarbon dates online (Database for European 14C dates for the Bronze and Early Iron Age)
-  - [http://radon.ufg.uni-kiel.de](http://radon-b.ufg.uni-kiel.de)
-- Database of the Eythra Project (Restricted access)
-  - [http://vmeythra.rz.uni-leipzig.de/](http://vmeythra.rz.uni-leipzig.de/)
-- Database of the MET project (Restricted access)
-  - [http://metdb.iaw.unibe.ch](http://metdb.iaw.unibe.ch)
+: - XRONOS - Open Access Database for absolute chronological archaeological information [https://xronos.ch](https://xronos.ch)
+- RADON - Radiocarbon dates online (Central European and Scandinavian database of 14C dates for the Neolithic and Early Bronze Age.) [http://radon.ufg.uni-kiel.de](http://radon.ufg.uni-kiel.de)
+- RADON-B - Radiocarbon dates online (Database for European 14C dates for the Bronze and Early Iron Age) [http://radon.ufg.uni-kiel.de](http://radon-b.ufg.uni-kiel.de)
+- Database of the Eythra Project (Restricted access) [http://vmeythra.rz.uni-leipzig.de/](http://vmeythra.rz.uni-leipzig.de/)
+- Database of the MET project (Restricted access) [http://metdb.iaw.unibe.ch](http://metdb.iaw.unibe.ch)
 
 ### online applications
 &nbsp;
-: - Tool for Online Seriation and Correspondence Analysis (TOSCA)
-  - [http://tosca.archaeological.science](http://tosca.archaeological.science)
+: - Tool for Online Seriation and Correspondence Analysis (TOSCA) [http://tosca.archaeological.science](http://tosca.archaeological.science)
 
 ### software
 &nbsp;
-: - Personal Github Repository
-  - [https://github.com/MartinHinz](https://github.com/MartinHinz)
-- ISAAK Github Repository
-  - [https://github.com/ISAAKiel](https://github.com/ISAAKiel)
+: - Personal Github Repository [https://github.com/MartinHinz](https://github.com/MartinHinz)
+- ISAAK Github Repository [https://github.com/ISAAKiel](https://github.com/ISAAKiel)
 
 ### online teaching material
 &nbsp;
-: - Tutorial Videos
-  - [http://vitutr.archaeological.science](http://vitutr.archaeological.science)
-- Course Material for Computer Aided Archaeology
-  - [https://berncodalab.github.io](https://berncodalab.github.io/)
-- Youtube Channel
-  - [https://www.youtube.com/channel/UC7yGYHD_Sj1UtgVETz5IKNw](https://www.youtube.com/channel/UC7yGYHD_Sj1UtgVETz5IKNw)
+: - Tutorial Videos [http://vitutr.archaeological.science](http://vitutr.archaeological.science)
+- Course Material for Computer Aided Archaeology [https://berncodalab.github.io](https://berncodalab.github.io/)
+- Youtube Channel [https://www.youtube.com/channel/UC7yGYHD_Sj1UtgVETz5IKNw](https://www.youtube.com/channel/UC7yGYHD_Sj1UtgVETz5IKNw)
 
 <div class="pagebreak"> </div>
 
