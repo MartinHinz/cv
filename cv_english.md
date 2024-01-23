@@ -147,13 +147,10 @@ Since 2020
 ### supervision (last five years)
 
 2023
-:   - Manuel Fuhrer, BA, *Korngrössenanalyse und Magerungseffekt bei pXRF-Analysen experimentell hergestellter Keramik*
-    - Yuli Maisak, BA, *Schnurkeramikkulturen in Nordbelarus und Nordwestrussland*
+:   - Manuel Fuhrer, BA, *Korngrössenanalyse und Magerungseffekt bei pXRF-Analysen experimentell hergestellter Keramik*; Yuli Maisak, BA, *Schnurkeramikkulturen in Nordbelarus und Nordwestrussland*
 
 2022
-:   - Anna Khoury, BA, *Das neolithische Material von Auvernier-Les Graviers*
-    - Corina Gottardi, PhD, *Mobilität, Entwicklungen und Verflechtungen am Ende des 4. Jahrtausends v. Chr (Working Title)*
-    - Michael Wagner, BA, *Unterlunkhofen – Pitten Manifestierte soziale Differenzierung im Grabbau*
+:   - Anna Khoury, BA, *Das neolithische Material von Auvernier-Les Graviers*; Corina Gottardi, PhD, *Mobilität, Entwicklungen und Verflechtungen am Ende des 4. Jahrtausends v. Chr (Working Title)*; Michael Wagner, BA, *Unterlunkhofen – Pitten Manifestierte soziale Differenzierung im Grabbau*
 
 2020
 :   - Hallvard Bruvoll, PhD, *Fractal Analysis as Method for studying Social Hierarchy in Prehistoric Settlement Plans*
@@ -176,16 +173,13 @@ Since 2013
 
 ### activity in scientific associations
 Since 2020
-: - Founding member and Secretary of the 'CAA National Chapter Switzerland' ([https://caa-switzerland.ch](https://caa-switzerland.ch)) & Founding member and Convener of the 'CAA SIG Scientific Scripting Languages in Archaeology' ([https://sslarch.github.io](https://sslarch.github.io))
+: - Founding member and Secretary of the 'CAA National Chapter Switzerland' & Founding member and Convener of the 'CAA SIG Scientific Scripting Languages in Archaeology'
 
 Since 2019
-: - Founding member of the 'Swiss TAG' ([https://swisstag.hcommons.org/](https://swisstag.hcommons.org/))
+: - Founding member of the 'Swiss TAG'
 
 Since 2016
-: - Founding member of the 'Initiative for Statistical Analysis in Archaeology Kiel (ISAAK)' ([https://isaakiel.github.io/](https://isaakiel.github.io/))
-
-Since 2007
-: - Member of the board of the 'Arbeitsgemeinschaft Theorien in der Archäologie e.V. (AG TidA)' (German TAG), ([http://www.agtida.de/](http://www.agtida.de/))
+: - Founding member of the 'Initiative for Statistical Analysis in Archaeology Kiel (ISAAK)' 
 
 ### conference organization
 1.-3.02.2023
