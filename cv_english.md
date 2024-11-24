@@ -43,7 +43,7 @@ CH-3012 Bern
 
 ### marital status
 &nbsp;
-: - not married
+: - married
 
 ### children
 &nbsp;
