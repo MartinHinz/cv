@@ -38,7 +38,7 @@ Nationalität
 : - Deutsch
 
 Zivilstand
-: - Ledig
+: - Verheiratet
 
 Kinder
 : - 2 (Mira 2012; Merle 2014)
