@@ -93,13 +93,18 @@ since 09/2018
 : - Assistant Coordinator of the DFG Priority Programme SPP 1400 'Early Monumentality and Social Differentiation', Institute for Prehistory and Early History of the CAU Kiel
 
 ### project PI
-Since 2020
+starting 2025
+: ESTER - ESTimation of the prehistoric population of Eurasia based on a large number of Records (ERC-2024-COG 101171036)
+
+2020-2024
 : - XRONOS – Open Access Database for absolute chronological archaeological information (SNF IZCOZ0_198153)
 
-Since 2020
+2020-2023
 : - Disclose the Archaeology of Wetland Neolithic (DAWN, CIS Seed Funding Grant 2020)
 
 ### fellowships and grants
+2024
+: - ERC Consolidator Grant, EUR 1'981'430, Project 'ESTER' 
 
 2023
 : - Bern University Research Foundation Grant, CHF 10’492, Project ‘EXPLO Total Station’
