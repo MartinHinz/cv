@@ -218,6 +218,18 @@ Since 2016
 <div class="pagebreak"> </div>
 
 ## publications (last five years, peer reviewed publications *italic*)
+2025
+: - *Yermokhin, M., Maczkowski, A., Bolliger, M., Francuz, J., Anastasi, A., Anastasi, K., Ballmer, A., Brunner, M., Gjipali, I., Giagkoulis, T., Hinz, M., Hostettler, M., Reich, J., Szidat, S., & Hafner, A. (2025). Dendroarchaeology at Lake Ohrid: Pine tree-ring chronology and 5th millennium BCE palisades from the pile-dwelling settlement of Lin 3, Albania. Dendrochronologia, 90, 126295. https://doi.org/https://doi.org/10.1016/j.dendro.2025.126295*
+  - Hinz, M. (2025). Pots, Stones, Bones and a Grain. The Recipe for a More Nuanced View of Neolithisation in Britain, Jutland and Switzerland. In E. by D. Hofmann, V. Cummings, & M. B.-A. & R. Iversen (Eds.), The Early Neolithic of Northern Europe. New Approaches to Migration, Movement and Social Connection (pp. 159–170). Sidestone Press.
+  - *Nielsen, S. V., & Hinz, M. (2025). Twigs Date the Second Holocene Transgression in Southwestern Norway. Radiocarbon, 1–17. https://doi.org/10.1017/RDC.2025.14*
+
+2024
+: - Heitz, C., Stapfer, R., & Hinz, M. (2024). Aufgetau(ch)t. Archäologie Zu Seeufersiedlungen, Eisfunden Und Klimawandel. Sidestone Press.
+  - Heitz, C., Stapfer, R., & Hinz, M. (2024). Ausblick Auf Die Feuchtboden- Und Gletscherarchäologie Der Zukunft. In Aufgetau(ch)t. Archäologie Zu Seeufersiedlungen, Eisfunden Und Klimawandel (pp. 447–454).
+  - Hinz, M., Stapfer, R., & Heitz, C. (2024). Einleitung: Von Der Kritik an Kulturkonzepten Bis Zur Klimaarchäologie. In Aufgetau(ch)t. Archäologie Zu Seeufersiedlungen, Eisfunden Und Klimawandel (pp. 37–40). Sidestone Press.
+  - Hinz, M., & Brunner, M. (2024). From Ignorance to Absence? Coping with Missing or Negative Evidence in Archaeology. In Aufgetau(ch)t. Archäologie Zu Seeufersiedlungen, Eisfunden Und Klimawandel (pp. 401–414). Sidestone Press.
+  - Stapfer, R., Heitz, C., & Hinz, M. (2024). Vorwort Der Herausgeberschaft. In Aufgetau(ch)t. Archäologie Zu Seeufersiedlungen, Eisfunden Und Klimawandel (pp. 13–14). Sidestone Press.
+
 2023
 : - *Albouy, B., Paquin, S., <span class="ich">Hinz, M.</span>, Wren, C. D., & Burke, A. (2023). The Last of Them: Investigating the Palaeogeography of the Last Neanderthals in Europe (Marine Isotopic Stage 3). In Themes in Contemporary Archaeology (pp. 27–45). Springer International Publishing. https://doi.org/10.1007/978-3-031-34336-0_2*
   - *Paquin, S., Albouy, B., <span class="ich">Hinz, M.</span>, & Burke, A. (2023). Going New Places: Dispersal and Establishment of the Aurignacian Technocomplex in Europe During the Marine Isotopic Stage 3 (MIS 3). In Themes in Contemporary Archaeology (pp. 47–59). Springer International Publishing. https://doi.org/10.1007/978-3-031-34336-0_3*
